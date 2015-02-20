@@ -1,0 +1,6 @@
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\05.The BiggestOfThreeNumbers\bin\Debug\05.The BiggestOfThreeNumbers.exe.config
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\05.The BiggestOfThreeNumbers\bin\Debug\05.The BiggestOfThreeNumbers.exe
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\05.The BiggestOfThreeNumbers\bin\Debug\05.The BiggestOfThreeNumbers.pdb
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\05.The BiggestOfThreeNumbers\obj\Debug\05.The BiggestOfThreeNumbers.csprojResolveAssemblyReference.cache
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\05.The BiggestOfThreeNumbers\obj\Debug\05.The BiggestOfThreeNumbers.exe
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\05.The BiggestOfThreeNumbers\obj\Debug\05.The BiggestOfThreeNumbers.pdb

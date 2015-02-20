@@ -1,0 +1,6 @@
+F:\Za Telerik\HOMEWORK\02. Multidimensional Arrays - Homework\05. Sort by string length\bin\Debug\_05.Sort_by_string_length.exe.config
+F:\Za Telerik\HOMEWORK\02. Multidimensional Arrays - Homework\05. Sort by string length\bin\Debug\_05.Sort_by_string_length.exe
+F:\Za Telerik\HOMEWORK\02. Multidimensional Arrays - Homework\05. Sort by string length\bin\Debug\_05.Sort_by_string_length.pdb
+F:\Za Telerik\HOMEWORK\02. Multidimensional Arrays - Homework\05. Sort by string length\obj\Debug\05. Sort by string length.csprojResolveAssemblyReference.cache
+F:\Za Telerik\HOMEWORK\02. Multidimensional Arrays - Homework\05. Sort by string length\obj\Debug\_05.Sort_by_string_length.exe
+F:\Za Telerik\HOMEWORK\02. Multidimensional Arrays - Homework\05. Sort by string length\obj\Debug\_05.Sort_by_string_length.pdb

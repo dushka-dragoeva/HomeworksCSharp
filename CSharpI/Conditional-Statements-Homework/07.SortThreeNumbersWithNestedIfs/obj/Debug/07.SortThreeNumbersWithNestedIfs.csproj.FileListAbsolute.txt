@@ -1,0 +1,6 @@
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\07.SortThreeNumbersWithNestedIfs\bin\Debug\07.SortThreeNumbersWithNestedIfs.exe.config
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\07.SortThreeNumbersWithNestedIfs\bin\Debug\07.SortThreeNumbersWithNestedIfs.exe
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\07.SortThreeNumbersWithNestedIfs\bin\Debug\07.SortThreeNumbersWithNestedIfs.pdb
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\07.SortThreeNumbersWithNestedIfs\obj\Debug\07.SortThreeNumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\07.SortThreeNumbersWithNestedIfs\obj\Debug\07.SortThreeNumbersWithNestedIfs.exe
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\07.SortThreeNumbersWithNestedIfs\obj\Debug\07.SortThreeNumbersWithNestedIfs.pdb

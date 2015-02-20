@@ -1,0 +1,6 @@
+G:\Za Telerik\HOMEWORK\Arrays-Homework\13.MergeSortAlgorithm\bin\Debug\13.MergeSortAlgorithm.exe.config
+G:\Za Telerik\HOMEWORK\Arrays-Homework\13.MergeSortAlgorithm\bin\Debug\13.MergeSortAlgorithm.exe
+G:\Za Telerik\HOMEWORK\Arrays-Homework\13.MergeSortAlgorithm\bin\Debug\13.MergeSortAlgorithm.pdb
+G:\Za Telerik\HOMEWORK\Arrays-Homework\13.MergeSortAlgorithm\obj\Debug\13.MergeSortAlgorithm.csprojResolveAssemblyReference.cache
+G:\Za Telerik\HOMEWORK\Arrays-Homework\13.MergeSortAlgorithm\obj\Debug\13.MergeSortAlgorithm.exe
+G:\Za Telerik\HOMEWORK\Arrays-Homework\13.MergeSortAlgorithm\obj\Debug\13.MergeSortAlgorithm.pdb

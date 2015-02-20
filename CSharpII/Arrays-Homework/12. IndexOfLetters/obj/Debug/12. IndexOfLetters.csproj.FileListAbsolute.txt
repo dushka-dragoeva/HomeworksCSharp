@@ -1,0 +1,12 @@
+F:\Za Telerik\HOMEWORK\Arrays-Homework\12. IndexOfLetters\bin\Debug\_12.IndexOfLetters.exe.config
+F:\Za Telerik\HOMEWORK\Arrays-Homework\12. IndexOfLetters\obj\Debug\12. IndexOfLetters.csprojResolveAssemblyReference.cache
+F:\Za Telerik\HOMEWORK\Arrays-Homework\12. IndexOfLetters\bin\Debug\_12.IndexOfLetters.exe
+F:\Za Telerik\HOMEWORK\Arrays-Homework\12. IndexOfLetters\bin\Debug\_12.IndexOfLetters.pdb
+F:\Za Telerik\HOMEWORK\Arrays-Homework\12. IndexOfLetters\obj\Debug\_12.IndexOfLetters.exe
+F:\Za Telerik\HOMEWORK\Arrays-Homework\12. IndexOfLetters\obj\Debug\_12.IndexOfLetters.pdb
+G:\Za Telerik\HOMEWORK\Arrays-Homework\12. IndexOfLetters\bin\Debug\_12.IndexOfLetters.exe.config
+G:\Za Telerik\HOMEWORK\Arrays-Homework\12. IndexOfLetters\obj\Debug\_12.IndexOfLetters.exe
+G:\Za Telerik\HOMEWORK\Arrays-Homework\12. IndexOfLetters\obj\Debug\_12.IndexOfLetters.pdb
+G:\Za Telerik\HOMEWORK\Arrays-Homework\12. IndexOfLetters\bin\Debug\_12.IndexOfLetters.exe
+G:\Za Telerik\HOMEWORK\Arrays-Homework\12. IndexOfLetters\bin\Debug\_12.IndexOfLetters.pdb
+G:\Za Telerik\HOMEWORK\Arrays-Homework\12. IndexOfLetters\obj\Debug\12. IndexOfLetters.csprojResolveAssemblyReference.cache

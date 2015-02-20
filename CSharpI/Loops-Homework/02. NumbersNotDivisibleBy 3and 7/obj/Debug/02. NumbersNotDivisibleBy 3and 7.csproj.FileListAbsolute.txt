@@ -1,0 +1,12 @@
+c:\users\win_8\documents\visual studio 2013\Projects\Loops-Homework\02. NumbersNotDivisibleBy 3and 7\bin\Debug\_02.NumbersNotDivisibleBy_3and_7.exe.config
+c:\users\win_8\documents\visual studio 2013\Projects\Loops-Homework\02. NumbersNotDivisibleBy 3and 7\bin\Debug\_02.NumbersNotDivisibleBy_3and_7.exe
+c:\users\win_8\documents\visual studio 2013\Projects\Loops-Homework\02. NumbersNotDivisibleBy 3and 7\bin\Debug\_02.NumbersNotDivisibleBy_3and_7.pdb
+c:\users\win_8\documents\visual studio 2013\Projects\Loops-Homework\02. NumbersNotDivisibleBy 3and 7\obj\Debug\_02.NumbersNotDivisibleBy_3and_7.exe
+c:\users\win_8\documents\visual studio 2013\Projects\Loops-Homework\02. NumbersNotDivisibleBy 3and 7\obj\Debug\_02.NumbersNotDivisibleBy_3and_7.pdb
+c:\users\win_8\documents\visual studio 2013\Projects\Loops-Homework\02. NumbersNotDivisibleBy 3and 7\obj\Debug\02. NumbersNotDivisibleBy 3and 7.csprojResolveAssemblyReference.cache
+G:\Za Telerik\HOMEWORK\Loops-Homework\02. NumbersNotDivisibleBy 3and 7\bin\Debug\_02.NumbersNotDivisibleBy_3and_7.exe.config
+G:\Za Telerik\HOMEWORK\Loops-Homework\02. NumbersNotDivisibleBy 3and 7\obj\Debug\_02.NumbersNotDivisibleBy_3and_7.exe
+G:\Za Telerik\HOMEWORK\Loops-Homework\02. NumbersNotDivisibleBy 3and 7\obj\Debug\_02.NumbersNotDivisibleBy_3and_7.pdb
+G:\Za Telerik\HOMEWORK\Loops-Homework\02. NumbersNotDivisibleBy 3and 7\bin\Debug\_02.NumbersNotDivisibleBy_3and_7.exe
+G:\Za Telerik\HOMEWORK\Loops-Homework\02. NumbersNotDivisibleBy 3and 7\bin\Debug\_02.NumbersNotDivisibleBy_3and_7.pdb
+G:\Za Telerik\HOMEWORK\Loops-Homework\02. NumbersNotDivisibleBy 3and 7\obj\Debug\02. NumbersNotDivisibleBy 3and 7.csprojResolveAssemblyReference.cache

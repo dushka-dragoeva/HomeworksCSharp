@@ -1,0 +1,8 @@
+D:\Telerik\Intro-Programing-Homework\Square Root\bin\Debug\Square Root.exe.config
+D:\Telerik\Intro-Programing-Homework\Square Root\obj\Debug\Square Root.exe
+D:\Telerik\Intro-Programing-Homework\Square Root\obj\Debug\Square Root.pdb
+D:\Telerik\Intro-Programing-Homework\Square Root\bin\Debug\Square Root.exe
+D:\Telerik\Intro-Programing-Homework\Square Root\bin\Debug\Square Root.pdb
+G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\Square Root\bin\Debug\Square Root.exe.config
+G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\Square Root\obj\Debug\Square Root.exe
+G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\Square Root\obj\Debug\Square Root.pdb

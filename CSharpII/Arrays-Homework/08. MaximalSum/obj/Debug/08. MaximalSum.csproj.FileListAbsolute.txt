@@ -1,0 +1,18 @@
+D:\Terelik\HOMEWORK\Arrays-Homework\08. MaximalSum\bin\Debug\_08.MaximalSum.exe.config
+D:\Terelik\HOMEWORK\Arrays-Homework\08. MaximalSum\bin\Debug\_08.MaximalSum.exe
+D:\Terelik\HOMEWORK\Arrays-Homework\08. MaximalSum\bin\Debug\_08.MaximalSum.pdb
+D:\Terelik\HOMEWORK\Arrays-Homework\08. MaximalSum\obj\Debug\08. MaximalSum.csprojResolveAssemblyReference.cache
+D:\Terelik\HOMEWORK\Arrays-Homework\08. MaximalSum\obj\Debug\_08.MaximalSum.exe
+D:\Terelik\HOMEWORK\Arrays-Homework\08. MaximalSum\obj\Debug\_08.MaximalSum.pdb
+G:\Za Telerik\HOMEWORK\Arrays-Homework\08. MaximalSum\bin\Debug\_08.MaximalSum.exe.config
+G:\Za Telerik\HOMEWORK\Arrays-Homework\08. MaximalSum\obj\Debug\_08.MaximalSum.exe
+G:\Za Telerik\HOMEWORK\Arrays-Homework\08. MaximalSum\obj\Debug\_08.MaximalSum.pdb
+E:\Za Telerik\HOMEWORK\Arrays-Homework\08. MaximalSum\bin\Debug\_08.MaximalSum.exe.config
+E:\Za Telerik\HOMEWORK\Arrays-Homework\08. MaximalSum\obj\Debug\_08.MaximalSum.exe
+E:\Za Telerik\HOMEWORK\Arrays-Homework\08. MaximalSum\obj\Debug\_08.MaximalSum.pdb
+F:\Za Telerik\HOMEWORK\Arrays-Homework\08. MaximalSum\bin\Debug\_08.MaximalSum.exe.config
+F:\Za Telerik\HOMEWORK\Arrays-Homework\08. MaximalSum\obj\Debug\_08.MaximalSum.exe
+F:\Za Telerik\HOMEWORK\Arrays-Homework\08. MaximalSum\obj\Debug\_08.MaximalSum.pdb
+G:\Za Telerik\HOMEWORK\Arrays-Homework\08. MaximalSum\bin\Debug\_08.MaximalSum.exe
+G:\Za Telerik\HOMEWORK\Arrays-Homework\08. MaximalSum\bin\Debug\_08.MaximalSum.pdb
+G:\Za Telerik\HOMEWORK\Arrays-Homework\08. MaximalSum\obj\Debug\08. MaximalSum.csprojResolveAssemblyReference.cache

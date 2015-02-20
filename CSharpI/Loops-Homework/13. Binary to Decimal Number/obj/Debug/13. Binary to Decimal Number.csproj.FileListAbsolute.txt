@@ -1,0 +1,5 @@
+G:\Za Telerik\HOMEWORK\Loops-Homework\13. Binary to Decimal Number\bin\Debug\_13.Binary_to_Decimal_Number.exe.config
+G:\Za Telerik\HOMEWORK\Loops-Homework\13. Binary to Decimal Number\bin\Debug\_13.Binary_to_Decimal_Number.exe
+G:\Za Telerik\HOMEWORK\Loops-Homework\13. Binary to Decimal Number\bin\Debug\_13.Binary_to_Decimal_Number.pdb
+G:\Za Telerik\HOMEWORK\Loops-Homework\13. Binary to Decimal Number\obj\Debug\_13.Binary_to_Decimal_Number.exe
+G:\Za Telerik\HOMEWORK\Loops-Homework\13. Binary to Decimal Number\obj\Debug\_13.Binary_to_Decimal_Number.pdb

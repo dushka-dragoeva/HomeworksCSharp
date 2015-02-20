@@ -1,0 +1,2 @@
+C:\Users\Sony\Desktop\Operators-and-Expressions-Homework\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe.config
+D:\Telerik\HOMEWORK\SentHomeorks\Operators-and-Expressions-Homework\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe.config

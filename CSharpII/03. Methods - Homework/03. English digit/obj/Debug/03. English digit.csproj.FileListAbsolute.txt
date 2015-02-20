@@ -1,0 +1,12 @@
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\03. English digit\bin\Debug\_03.English_digit.exe.config
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\03. English digit\bin\Debug\_03.English_digit.exe
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\03. English digit\bin\Debug\_03.English_digit.pdb
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\03. English digit\obj\Debug\03. English digit.csprojResolveAssemblyReference.cache
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\03. English digit\obj\Debug\_03.English_digit.exe
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\03. English digit\obj\Debug\_03.English_digit.pdb
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\03. English digit\bin\Debug\_03.English_digit.exe.config
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\03. English digit\obj\Debug\_03.English_digit.exe
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\03. English digit\obj\Debug\_03.English_digit.pdb
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\03. English digit\bin\Debug\_03.English_digit.exe
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\03. English digit\bin\Debug\_03.English_digit.pdb
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\03. English digit\obj\Debug\03. English digit.csprojResolveAssemblyReference.cache

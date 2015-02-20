@@ -1,0 +1,6 @@
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\09. PlayWithIntDoubleAndString\bin\Debug\_09.PlayWithIntDoubleAndString.exe.config
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\09. PlayWithIntDoubleAndString\bin\Debug\_09.PlayWithIntDoubleAndString.exe
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\09. PlayWithIntDoubleAndString\bin\Debug\_09.PlayWithIntDoubleAndString.pdb
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\09. PlayWithIntDoubleAndString\obj\Debug\09. PlayWithIntDoubleAndString.csprojResolveAssemblyReference.cache
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\09. PlayWithIntDoubleAndString\obj\Debug\_09.PlayWithIntDoubleAndString.exe
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\09. PlayWithIntDoubleAndString\obj\Debug\_09.PlayWithIntDoubleAndString.pdb

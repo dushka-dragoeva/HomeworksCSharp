@@ -1,0 +1,18 @@
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\bin\Debug\_08.Number_as_array.exe.config
+D:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\bin\Debug\_08.Number_as_array.exe.config
+D:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\bin\Debug\_08.Number_as_array.exe
+D:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\bin\Debug\_08.Number_as_array.pdb
+D:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\obj\Debug\08. Number as array.csprojResolveAssemblyReference.cache
+D:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\obj\Debug\_08.Number_as_array.exe
+D:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\obj\Debug\_08.Number_as_array.pdb
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\obj\Debug\_08.Number_as_array.exe
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\obj\Debug\_08.Number_as_array.pdb
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\bin\Debug\_08.Number_as_array.exe
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\bin\Debug\_08.Number_as_array.pdb
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\obj\Debug\08. Number as array.csprojResolveAssemblyReference.cache
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\bin\Debug\_08.Number_as_array.exe.config
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\obj\Debug\_08.Number_as_array.exe
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\obj\Debug\_08.Number_as_array.pdb
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\bin\Debug\_08.Number_as_array.exe
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\bin\Debug\_08.Number_as_array.pdb
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\08. Number as array\obj\Debug\08. Number as array.csprojResolveAssemblyReference.cache

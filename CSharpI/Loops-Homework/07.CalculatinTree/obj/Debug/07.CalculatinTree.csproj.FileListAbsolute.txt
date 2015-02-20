@@ -1,0 +1,5 @@
+G:\Za Telerik\HOMEWORK\Loops-Homework\07.CalculatinTree\bin\Debug\07.CalculatinTree.exe.config
+G:\Za Telerik\HOMEWORK\Loops-Homework\07.CalculatinTree\bin\Debug\07.CalculatinTree.exe
+G:\Za Telerik\HOMEWORK\Loops-Homework\07.CalculatinTree\bin\Debug\07.CalculatinTree.pdb
+G:\Za Telerik\HOMEWORK\Loops-Homework\07.CalculatinTree\obj\Debug\07.CalculatinTree.exe
+G:\Za Telerik\HOMEWORK\Loops-Homework\07.CalculatinTree\obj\Debug\07.CalculatinTree.pdb

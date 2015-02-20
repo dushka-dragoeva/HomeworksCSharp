@@ -1,0 +1,6 @@
+G:\Za Telerik\HOMEWORK\Arrays-Homework\15. Prime numbers\bin\Debug\_15.Prime_numbers.exe.config
+G:\Za Telerik\HOMEWORK\Arrays-Homework\15. Prime numbers\bin\Debug\_15.Prime_numbers.exe
+G:\Za Telerik\HOMEWORK\Arrays-Homework\15. Prime numbers\bin\Debug\_15.Prime_numbers.pdb
+G:\Za Telerik\HOMEWORK\Arrays-Homework\15. Prime numbers\obj\Debug\15. PrimeNumbers.csprojResolveAssemblyReference.cache
+G:\Za Telerik\HOMEWORK\Arrays-Homework\15. Prime numbers\obj\Debug\_15.Prime_numbers.exe
+G:\Za Telerik\HOMEWORK\Arrays-Homework\15. Prime numbers\obj\Debug\_15.Prime_numbers.pdb

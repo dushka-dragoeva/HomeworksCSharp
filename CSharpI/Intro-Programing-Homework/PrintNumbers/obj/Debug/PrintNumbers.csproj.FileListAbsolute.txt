@@ -1,0 +1,6 @@
+D:\My stuff\Terelik\Intro-Programing-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+D:\My stuff\Terelik\Intro-Programing-Homework\PrintNumbers\bin\Debug\PrintNumbers.exe
+D:\My stuff\Terelik\Intro-Programing-Homework\PrintNumbers\bin\Debug\PrintNumbers.pdb
+D:\My stuff\Terelik\Intro-Programing-Homework\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache
+D:\My stuff\Terelik\Intro-Programing-Homework\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\My stuff\Terelik\Intro-Programing-Homework\PrintNumbers\obj\Debug\PrintNumbers.pdb

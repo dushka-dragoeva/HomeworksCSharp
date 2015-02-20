@@ -1,0 +1,40 @@
+Java 
+like C# is class-based object-oriented, both are designed with semi-interpretation or runtime compilation in mind, both use garbage-collection, and both are "curly brace languages". 
+The main difference for now is Java is Open source as C# is not. The primiteve data types in C# are objects.  C# supports unsigned types byte, ushort, uint and ulong but there are no unsigned types in Java.
+C# only supports unchecked exceptions but Java has both checked and unchecked.
+
+C  
+is an imperative (procedural) language. It was designed to be compiled using a relatively straightforward compiler, to provide low-level access to memory, to provide language constructs that map efficiently 
+to machine instructions, and to require minimal run-time support. C was therefore useful for many applications that had formerly been coded in assembly language, such as in system programming.
+Despite its low-level capabilities, the language was designed to encourage cross-platform programming. A standards-compliant and portably written C program can be compiled for a very wide variety of computer platforms 
+and operating systems with few changes to its source code. The language has become available on a very wide range of platforms, from embedded microcontrollers to supercomputers.
+
+C++
+like C# is class-based object-oriented. Application or Server development where memory management needs to be fine tuned (and can't be left to generic garbage collection solutions).
+Development environments that require access to libraries that do not interface well with more modern managed languages. Although managed C++ can be used to access the .NET framework, it is not a seamless transition.
+There are several shortcomings to C++ that are resolved in C#. One of the more subtle ones is the use of reference variables as function arguments.  C# insists that the ref keyword be placed in the function call (in addition to the 
+function declaration), thereby cluing the maintainer in that the value could be changed by the function.
+
+Python
+Supports multiple programming paradigms, including object-oriented, imperative and functional programming or procedural styles. It features a dynamic type system and automatic memory management and has a large and 
+comprehensive standard library. Python variables are just labels on objects. Variables are not declared; C# is statically typed. The variables are declared to the compiler to be of a specific type. The code is generated
+based on certain knowledge about the variables use at run-time
+
+Java Script
+is a dynamic computer programming language.It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, 
+and alter the document content that is displayed.[5] It is also used in server-side network programming with runtime environments such as Node.js, game development and the creation of desktop and mobile applications.
+JavaScript is classified as a prototype-based scripting language with dynamic typing and first-class functions. This mix of features makes it a multi-paradigm language, supporting object-oriented, imperative, and 
+functional programming styles.  in C# functions, variables are lexically scoped, whereas Javascript there is both are lexically and dynamically scoped.
+
+PHP
+is a server-side scripting language designed for web development but also used as a general-purpose programming language. PHP code can be simply mixed with HTML code, or it can be used in combination with various templating 
+engines and web frameworks. PHP code is usually processed by a PHP interpreter, which is usually implemented as a web server's native module or a Common Gateway Interface (CGI) executable. Function names don’t have a function” 
+in the declaration as in PHPIn C# classes are implemented (derived) with a : instead of the “implements” declaration Class constructors in C# have the same name as the class…much like PHP 4 used to be.To run the code in 
+the parent constructor, C# uses :base() right after the child class constructor declaration (public ChildClass :base() {}) All variables, data sets and objects need to have a type declared – after all C# is a strongly 
+typed language
+ 
+Perl
+is a family of high-level, general-purpose, interpreted, dynamic programming languages. C# has a very strict and highly developed Framework that can be used from the start, Perl has lots of modules that you have to install, 
+by default though you would do everything yourself.The semantics in C# are stricter, that is you can may tend to do things in one way, other people would tend to do it the same way too.
+In Perl you can do everything many many ways, which a lot of people like because one person doesn’t code the same as another; it is not forced on you
+

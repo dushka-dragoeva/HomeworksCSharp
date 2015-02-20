@@ -1,0 +1,14 @@
+D:\Telerik\Intro-Programing-Homework\05-Print-Your-Name\bin\Debug\05-Print-Your-Name.exe.config
+D:\Telerik\Intro-Programing-Homework\05-Print-Your-Name\obj\Debug\05-Print-Your-Name.exe
+D:\Telerik\Intro-Programing-Homework\05-Print-Your-Name\obj\Debug\05-Print-Your-Name.pdb
+D:\Telerik\Intro-Programing-Homework\05-Print-Your-Name\bin\Debug\05-Print-Your-Name.exe
+D:\Telerik\Intro-Programing-Homework\05-Print-Your-Name\bin\Debug\05-Print-Your-Name.pdb
+E:\Za Telerik\HOMEWORK\Intro-Programing-Homework\05-Print-Your-Name\bin\Debug\05-Print-Your-Name.exe.config
+E:\Za Telerik\HOMEWORK\Intro-Programing-Homework\05-Print-Your-Name\obj\Debug\05-Print-Your-Name.exe
+E:\Za Telerik\HOMEWORK\Intro-Programing-Homework\05-Print-Your-Name\obj\Debug\05-Print-Your-Name.pdb
+F:\Za Telerik\HOMEWORK\Intro-Programing-Homework\05-Print-Your-Name\bin\Debug\05-Print-Your-Name.exe.config
+F:\Za Telerik\HOMEWORK\Intro-Programing-Homework\05-Print-Your-Name\obj\Debug\05-Print-Your-Name.exe
+F:\Za Telerik\HOMEWORK\Intro-Programing-Homework\05-Print-Your-Name\obj\Debug\05-Print-Your-Name.pdb
+G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\05-Print-Your-Name\bin\Debug\05-Print-Your-Name.exe.config
+G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\05-Print-Your-Name\obj\Debug\05-Print-Your-Name.exe
+G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\05-Print-Your-Name\obj\Debug\05-Print-Your-Name.pdb

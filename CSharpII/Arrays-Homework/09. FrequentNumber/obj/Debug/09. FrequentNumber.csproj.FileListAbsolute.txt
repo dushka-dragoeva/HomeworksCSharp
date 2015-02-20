@@ -1,0 +1,17 @@
+D:\Terelik\HOMEWORK\Arrays-Homework\09. FrequentNumber\bin\Debug\_09.FrequentNumber.exe.config
+D:\Terelik\HOMEWORK\Arrays-Homework\09. FrequentNumber\bin\Debug\_09.FrequentNumber.exe
+D:\Terelik\HOMEWORK\Arrays-Homework\09. FrequentNumber\bin\Debug\_09.FrequentNumber.pdb
+D:\Terelik\HOMEWORK\Arrays-Homework\09. FrequentNumber\obj\Debug\_09.FrequentNumber.exe
+D:\Terelik\HOMEWORK\Arrays-Homework\09. FrequentNumber\obj\Debug\_09.FrequentNumber.pdb
+G:\Za Telerik\HOMEWORK\Arrays-Homework\09. FrequentNumber\bin\Debug\_09.FrequentNumber.exe.config
+G:\Za Telerik\HOMEWORK\Arrays-Homework\09. FrequentNumber\obj\Debug\_09.FrequentNumber.exe
+G:\Za Telerik\HOMEWORK\Arrays-Homework\09. FrequentNumber\obj\Debug\_09.FrequentNumber.pdb
+E:\Za Telerik\HOMEWORK\Arrays-Homework\09. FrequentNumber\bin\Debug\_09.FrequentNumber.exe.config
+E:\Za Telerik\HOMEWORK\Arrays-Homework\09. FrequentNumber\obj\Debug\_09.FrequentNumber.exe
+E:\Za Telerik\HOMEWORK\Arrays-Homework\09. FrequentNumber\obj\Debug\_09.FrequentNumber.pdb
+F:\Za Telerik\HOMEWORK\Arrays-Homework\09. FrequentNumber\bin\Debug\_09.FrequentNumber.exe.config
+F:\Za Telerik\HOMEWORK\Arrays-Homework\09. FrequentNumber\obj\Debug\_09.FrequentNumber.exe
+F:\Za Telerik\HOMEWORK\Arrays-Homework\09. FrequentNumber\obj\Debug\_09.FrequentNumber.pdb
+G:\Za Telerik\HOMEWORK\Arrays-Homework\09. FrequentNumber\bin\Debug\_09.FrequentNumber.exe
+G:\Za Telerik\HOMEWORK\Arrays-Homework\09. FrequentNumber\bin\Debug\_09.FrequentNumber.pdb
+G:\Za Telerik\HOMEWORK\Arrays-Homework\09. FrequentNumber\obj\Debug\09. FrequentNumber.csprojResolveAssemblyReference.cache

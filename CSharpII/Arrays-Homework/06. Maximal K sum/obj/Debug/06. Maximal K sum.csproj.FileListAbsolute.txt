@@ -1,0 +1,9 @@
+G:\Za Telerik\HOMEWORK\Arrays-Homework\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.exe.config
+G:\Za Telerik\HOMEWORK\Arrays-Homework\06. Maximal K sum\obj\Debug\06. Maximal K sum.csprojResolveAssemblyReference.cache
+G:\Za Telerik\HOMEWORK\Arrays-Homework\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.exe
+G:\Za Telerik\HOMEWORK\Arrays-Homework\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.pdb
+G:\Za Telerik\HOMEWORK\Arrays-Homework\06. Maximal K sum\obj\Debug\_06.Maximal_K_sum.exe
+G:\Za Telerik\HOMEWORK\Arrays-Homework\06. Maximal K sum\obj\Debug\_06.Maximal_K_sum.pdb
+D:\Terelik\HOMEWORK\Arrays-Homework\06. Maximal K sum\bin\Debug\_06.Maximal_K_sum.exe.config
+D:\Terelik\HOMEWORK\Arrays-Homework\06. Maximal K sum\obj\Debug\_06.Maximal_K_sum.exe
+D:\Terelik\HOMEWORK\Arrays-Homework\06. Maximal K sum\obj\Debug\_06.Maximal_K_sum.pdb

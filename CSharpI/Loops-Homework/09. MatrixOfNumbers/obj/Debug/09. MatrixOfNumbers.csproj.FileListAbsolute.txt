@@ -1,0 +1,6 @@
+G:\Za Telerik\HOMEWORK\Loops-Homework\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.exe.config
+G:\Za Telerik\HOMEWORK\Loops-Homework\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.exe
+G:\Za Telerik\HOMEWORK\Loops-Homework\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.pdb
+G:\Za Telerik\HOMEWORK\Loops-Homework\09. MatrixOfNumbers\obj\Debug\_09.MatrixOfNumbers.exe
+G:\Za Telerik\HOMEWORK\Loops-Homework\09. MatrixOfNumbers\obj\Debug\_09.MatrixOfNumbers.pdb
+G:\Za Telerik\HOMEWORK\Loops-Homework\09. MatrixOfNumbers\obj\Debug\09. MatrixOfNumbers.csprojResolveAssemblyReference.cache

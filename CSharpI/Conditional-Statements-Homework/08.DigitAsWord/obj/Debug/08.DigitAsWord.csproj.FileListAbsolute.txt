@@ -1,0 +1,6 @@
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\08.DigitAsWord\obj\Debug\08.DigitAsWord.csprojResolveAssemblyReference.cache
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

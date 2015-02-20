@@ -1,0 +1,12 @@
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\02. Get largest number\bin\Debug\_02.Get_largest_number.exe.config
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\02. Get largest number\bin\Debug\_02.Get_largest_number.exe
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\02. Get largest number\bin\Debug\_02.Get_largest_number.pdb
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\02. Get largest number\obj\Debug\02. Get largest number.csprojResolveAssemblyReference.cache
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\02. Get largest number\obj\Debug\_02.Get_largest_number.exe
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\02. Get largest number\obj\Debug\_02.Get_largest_number.pdb
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\02. Get largest number\bin\Debug\_02.Get_largest_number.exe.config
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\02. Get largest number\obj\Debug\_02.Get_largest_number.exe
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\02. Get largest number\obj\Debug\_02.Get_largest_number.pdb
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\02. Get largest number\bin\Debug\_02.Get_largest_number.exe
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\02. Get largest number\bin\Debug\_02.Get_largest_number.pdb
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\02. Get largest number\obj\Debug\02. Get largest number.csprojResolveAssemblyReference.cache

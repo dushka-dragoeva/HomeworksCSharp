@@ -1,0 +1,12 @@
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\01. Say Hello\bin\Debug\_01.Say_Hello.exe.config
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\01. Say Hello\bin\Debug\_01.Say_Hello.exe
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\01. Say Hello\bin\Debug\_01.Say_Hello.pdb
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\01. Say Hello\obj\Debug\01. Say Hello.csprojResolveAssemblyReference.cache
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\01. Say Hello\obj\Debug\_01.Say_Hello.exe
+F:\Za Telerik\HOMEWORK\03. Methods - Homework\01. Say Hello\obj\Debug\_01.Say_Hello.pdb
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\01. Say Hello\bin\Debug\_01.Say_Hello.exe.config
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\01. Say Hello\obj\Debug\_01.Say_Hello.exe
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\01. Say Hello\obj\Debug\_01.Say_Hello.pdb
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\01. Say Hello\bin\Debug\_01.Say_Hello.exe
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\01. Say Hello\bin\Debug\_01.Say_Hello.pdb
+G:\Za Telerik\HOMEWORK\03. Methods - Homework\01. Say Hello\obj\Debug\01. Say Hello.csprojResolveAssemblyReference.cache

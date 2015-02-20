@@ -1,0 +1,5 @@
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe.config
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\12.ZeroSubset\bin\Debug\12.ZeroSubset.pdb
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
+G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb

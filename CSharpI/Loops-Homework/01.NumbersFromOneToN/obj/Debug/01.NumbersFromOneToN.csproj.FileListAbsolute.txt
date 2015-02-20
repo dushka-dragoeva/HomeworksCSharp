@@ -1,0 +1,6 @@
+G:\Za Telerik\HOMEWORK\Loops-Homework\01.NumbersFromOneToN\bin\Debug\01.NumbersFromOneToN.exe.config
+G:\Za Telerik\HOMEWORK\Loops-Homework\01.NumbersFromOneToN\bin\Debug\01.NumbersFromOneToN.exe
+G:\Za Telerik\HOMEWORK\Loops-Homework\01.NumbersFromOneToN\bin\Debug\01.NumbersFromOneToN.pdb
+G:\Za Telerik\HOMEWORK\Loops-Homework\01.NumbersFromOneToN\obj\Debug\01.NumbersFromOneToN.csprojResolveAssemblyReference.cache
+G:\Za Telerik\HOMEWORK\Loops-Homework\01.NumbersFromOneToN\obj\Debug\01.NumbersFromOneToN.exe
+G:\Za Telerik\HOMEWORK\Loops-Homework\01.NumbersFromOneToN\obj\Debug\01.NumbersFromOneToN.pdb

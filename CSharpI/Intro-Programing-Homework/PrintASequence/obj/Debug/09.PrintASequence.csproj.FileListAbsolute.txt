@@ -1,0 +1,24 @@
+D:\My stuff\Terelik\Intro-Programing-Homework\PrintASequence\bin\Debug\PrintASequence.exe.config
+D:\My stuff\Terelik\Intro-Programing-Homework\PrintASequence\bin\Debug\PrintASequence.exe
+D:\My stuff\Terelik\Intro-Programing-Homework\PrintASequence\bin\Debug\PrintASequence.pdb
+D:\My stuff\Terelik\Intro-Programing-Homework\PrintASequence\obj\Debug\PrintASequence.exe
+D:\My stuff\Terelik\Intro-Programing-Homework\PrintASequence\obj\Debug\PrintASequence.pdb
+D:\My stuff\Terelik\Intro-Programing-Homework\PrintASequence\obj\Debug\09.PrintASequence.csprojResolveAssemblyReference.cache
+D:\Telerik\Intro-Programing-Homework\PrintASequence\bin\Debug\PrintASequence.exe.config
+D:\Telerik\Intro-Programing-Homework\PrintASequence\obj\Debug\PrintASequence.exe
+D:\Telerik\Intro-Programing-Homework\PrintASequence\obj\Debug\PrintASequence.pdb
+D:\Telerik\Intro-Programing-Homework\PrintASequence\bin\Debug\PrintASequence.exe
+D:\Telerik\Intro-Programing-Homework\PrintASequence\bin\Debug\PrintASequence.pdb
+D:\Telerik\Intro-Programing-Homework\PrintASequence\obj\Debug\09.PrintASequence.csprojResolveAssemblyReference.cache
+F:\Za Telerik\HOMEWORK\Intro-Programing-Homework\PrintASequence\bin\Debug\PrintASequence.exe.config
+F:\Za Telerik\HOMEWORK\Intro-Programing-Homework\PrintASequence\obj\Debug\PrintASequence.exe
+F:\Za Telerik\HOMEWORK\Intro-Programing-Homework\PrintASequence\obj\Debug\PrintASequence.pdb
+F:\Za Telerik\HOMEWORK\Intro-Programing-Homework\PrintASequence\bin\Debug\PrintASequence.exe
+F:\Za Telerik\HOMEWORK\Intro-Programing-Homework\PrintASequence\bin\Debug\PrintASequence.pdb
+F:\Za Telerik\HOMEWORK\Intro-Programing-Homework\PrintASequence\obj\Debug\09.PrintASequence.csprojResolveAssemblyReference.cache
+G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\PrintASequence\bin\Debug\PrintASequence.exe.config
+G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\PrintASequence\obj\Debug\PrintASequence.exe
+G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\PrintASequence\obj\Debug\PrintASequence.pdb
+G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\PrintASequence\bin\Debug\PrintASequence.exe
+G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\PrintASequence\bin\Debug\PrintASequence.pdb
+G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\PrintASequence\obj\Debug\09.PrintASequence.csprojResolveAssemblyReference.cache
