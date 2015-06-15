@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+	<title>HTML Form</title>
+</head>
+<body>
+	<form name="my-form" method="post" action="#">
+		<div>
+			<label for="member-name">Member name:</label>
+			<input type="text" id="member-name" name="member-name" required />
+			<label for="member-name">*req</label>
+		</div>
+		<div>
+			<label for="email">Email:</label>
+			<input type="email" id="email" name="email"  required pattern="[a-zA-Z0-9._\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,4}"/>
+			<label for="email">*req</label>
+		</div>
+		<div>
+			<label for="school">Scool:</label>
+			<input type="text" id="school" name="school"  required/>
+			<label for="school">*req</label>
+		</div>
+		<input type="image" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxB1O3S7MY9pOWtZCKAD0ES_GUWktG_L7FpKdWX4nH5X-kUrBPKQ" name="submit-button" alt="SUBMIT" />
+
+	</form>
+</body>
+</html>
