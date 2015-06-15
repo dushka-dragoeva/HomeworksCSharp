@@ -1,6 +1,0 @@
-G:\Za Telerik\HOMEWORK\Loops-Homework\06.CalculationTwo\bin\Debug\06.CalculationTwo.exe.config
-G:\Za Telerik\HOMEWORK\Loops-Homework\06.CalculationTwo\bin\Debug\06.CalculationTwo.exe
-G:\Za Telerik\HOMEWORK\Loops-Homework\06.CalculationTwo\bin\Debug\06.CalculationTwo.pdb
-G:\Za Telerik\HOMEWORK\Loops-Homework\06.CalculationTwo\obj\Debug\06.CalculationTwo.csprojResolveAssemblyReference.cache
-G:\Za Telerik\HOMEWORK\Loops-Homework\06.CalculationTwo\obj\Debug\06.CalculationTwo.exe
-G:\Za Telerik\HOMEWORK\Loops-Homework\06.CalculationTwo\obj\Debug\06.CalculationTwo.pdb

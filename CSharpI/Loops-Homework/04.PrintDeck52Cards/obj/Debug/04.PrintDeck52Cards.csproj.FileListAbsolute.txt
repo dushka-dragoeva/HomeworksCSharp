@@ -1,5 +1,0 @@
-G:\Za Telerik\HOMEWORK\Loops-Homework\04.PrintDeck52Cards\bin\Debug\04.PrintDeck52Cards.exe.config
-G:\Za Telerik\HOMEWORK\Loops-Homework\04.PrintDeck52Cards\bin\Debug\04.PrintDeck52Cards.exe
-G:\Za Telerik\HOMEWORK\Loops-Homework\04.PrintDeck52Cards\bin\Debug\04.PrintDeck52Cards.pdb
-G:\Za Telerik\HOMEWORK\Loops-Homework\04.PrintDeck52Cards\obj\Debug\04.PrintDeck52Cards.exe
-G:\Za Telerik\HOMEWORK\Loops-Homework\04.PrintDeck52Cards\obj\Debug\04.PrintDeck52Cards.pdb

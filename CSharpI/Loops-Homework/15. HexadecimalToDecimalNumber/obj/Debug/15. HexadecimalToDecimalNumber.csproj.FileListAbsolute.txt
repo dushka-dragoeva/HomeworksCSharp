@@ -1,5 +1,0 @@
-G:\Za Telerik\HOMEWORK\Loops-Homework\15. HexadecimalToDecimalNumber\bin\Debug\_15.HexadecimalToDecimalNumber.exe.config
-G:\Za Telerik\HOMEWORK\Loops-Homework\15. HexadecimalToDecimalNumber\bin\Debug\_15.HexadecimalToDecimalNumber.exe
-G:\Za Telerik\HOMEWORK\Loops-Homework\15. HexadecimalToDecimalNumber\bin\Debug\_15.HexadecimalToDecimalNumber.pdb
-G:\Za Telerik\HOMEWORK\Loops-Homework\15. HexadecimalToDecimalNumber\obj\Debug\_15.HexadecimalToDecimalNumber.exe
-G:\Za Telerik\HOMEWORK\Loops-Homework\15. HexadecimalToDecimalNumber\obj\Debug\_15.HexadecimalToDecimalNumber.pdb

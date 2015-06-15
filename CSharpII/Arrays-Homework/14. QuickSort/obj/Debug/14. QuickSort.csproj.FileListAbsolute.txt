@@ -1,7 +1,0 @@
-F:\Za Telerik\HOMEWORK\Arrays-Homework\14. QuickSort\bin\Debug\_14.QuickSort.exe.config
-G:\Za Telerik\HOMEWORK\Arrays-Homework\14. QuickSort\bin\Debug\_14.QuickSort.exe.config
-G:\Za Telerik\HOMEWORK\Arrays-Homework\14. QuickSort\bin\Debug\_14.QuickSort.exe
-G:\Za Telerik\HOMEWORK\Arrays-Homework\14. QuickSort\bin\Debug\_14.QuickSort.pdb
-G:\Za Telerik\HOMEWORK\Arrays-Homework\14. QuickSort\obj\Debug\14. QuickSort.csprojResolveAssemblyReference.cache
-G:\Za Telerik\HOMEWORK\Arrays-Homework\14. QuickSort\obj\Debug\_14.QuickSort.exe
-G:\Za Telerik\HOMEWORK\Arrays-Homework\14. QuickSort\obj\Debug\_14.QuickSort.pdb

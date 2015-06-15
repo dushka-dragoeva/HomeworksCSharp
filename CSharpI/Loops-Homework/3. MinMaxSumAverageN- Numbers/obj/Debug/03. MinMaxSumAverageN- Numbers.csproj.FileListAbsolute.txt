@@ -1,3 +1,0 @@
-G:\Za Telerik\HOMEWORK\Loops-Homework\3. MinMaxSumAverageN- Numbers\bin\Debug\_3.MinMaxSumAverageN__Numbers.exe.config
-G:\Za Telerik\HOMEWORK\Loops-Homework\3. MinMaxSumAverageN- Numbers\obj\Debug\_3.MinMaxSumAverageN__Numbers.exe
-G:\Za Telerik\HOMEWORK\Loops-Homework\3. MinMaxSumAverageN- Numbers\obj\Debug\_3.MinMaxSumAverageN__Numbers.pdb

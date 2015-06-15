@@ -1,5 +1,0 @@
-D:\My stuff\Terelik\Intro-Programing-Homework\Square Root\bin\Debug\Square Root.exe.config
-D:\My stuff\Terelik\Intro-Programing-Homework\Square Root\bin\Debug\Square Root.exe
-D:\My stuff\Terelik\Intro-Programing-Homework\Square Root\bin\Debug\Square Root.pdb
-D:\My stuff\Terelik\Intro-Programing-Homework\Square Root\obj\Debug\Square Root.exe
-D:\My stuff\Terelik\Intro-Programing-Homework\Square Root\obj\Debug\Square Root.pdb

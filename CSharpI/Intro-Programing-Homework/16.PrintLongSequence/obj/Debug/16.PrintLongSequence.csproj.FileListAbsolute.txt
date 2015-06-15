@@ -1,6 +1,0 @@
-G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe.config
-G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.exe
-G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\16.PrintLongSequence\bin\Debug\16.PrintLongSequence.pdb
-G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.csprojResolveAssemblyReference.cache
-G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.exe
-G:\Za Telerik\HOMEWORK\Intro-Programing-Homework\16.PrintLongSequence\obj\Debug\16.PrintLongSequence.pdb

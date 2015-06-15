@@ -1,9 +1,0 @@
-D:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.exe.config
-D:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.exe
-D:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.pdb
-D:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\04. MultiplicationSign\obj\Debug\04. MultiplicationSign.csprojResolveAssemblyReference.cache
-D:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\04. MultiplicationSign\obj\Debug\_04.MultiplicationSign.exe
-D:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\04. MultiplicationSign\obj\Debug\_04.MultiplicationSign.pdb
-G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.exe.config
-G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\04. MultiplicationSign\obj\Debug\_04.MultiplicationSign.exe
-G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\04. MultiplicationSign\obj\Debug\_04.MultiplicationSign.pdb

@@ -1,5 +1,0 @@
-G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\11.NumbersAsWords\bin\Debug\11.NumbersAsWords.exe.config
-G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\11.NumbersAsWords\bin\Debug\11.NumbersAsWords.exe
-G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\11.NumbersAsWords\bin\Debug\11.NumbersAsWords.pdb
-G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\11.NumbersAsWords\obj\Debug\11.NumbersAsWords.exe
-G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\11.NumbersAsWords\obj\Debug\11.NumbersAsWords.pdb

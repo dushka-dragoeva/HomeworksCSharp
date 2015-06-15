@@ -1,9 +1,0 @@
-D:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\06. The Biggest of Five Numbers\bin\Debug\_06.The_Biggest_of_Five_Numbers.exe.config
-D:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\06. The Biggest of Five Numbers\obj\Debug\06. The Biggest of Five Numbers.csprojResolveAssemblyReference.cache
-D:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\06. The Biggest of Five Numbers\bin\Debug\_06.The_Biggest_of_Five_Numbers.exe
-D:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\06. The Biggest of Five Numbers\bin\Debug\_06.The_Biggest_of_Five_Numbers.pdb
-D:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\06. The Biggest of Five Numbers\obj\Debug\_06.The_Biggest_of_Five_Numbers.exe
-D:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\06. The Biggest of Five Numbers\obj\Debug\_06.The_Biggest_of_Five_Numbers.pdb
-G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\06. The Biggest of Five Numbers\bin\Debug\_06.The_Biggest_of_Five_Numbers.exe.config
-G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\06. The Biggest of Five Numbers\obj\Debug\_06.The_Biggest_of_Five_Numbers.exe
-G:\Za Telerik\HOMEWORK\Conditional-Statements-Homework\06. The Biggest of Five Numbers\obj\Debug\_06.The_Biggest_of_Five_Numbers.pdb

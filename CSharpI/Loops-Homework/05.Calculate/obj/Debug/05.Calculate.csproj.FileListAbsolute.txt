@@ -1,6 +1,0 @@
-G:\Za Telerik\HOMEWORK\Loops-Homework\05.Calculate\bin\Debug\05.Calculate.exe.config
-G:\Za Telerik\HOMEWORK\Loops-Homework\05.Calculate\bin\Debug\05.Calculate.exe
-G:\Za Telerik\HOMEWORK\Loops-Homework\05.Calculate\bin\Debug\05.Calculate.pdb
-G:\Za Telerik\HOMEWORK\Loops-Homework\05.Calculate\obj\Debug\05.Calculate.csprojResolveAssemblyReference.cache
-G:\Za Telerik\HOMEWORK\Loops-Homework\05.Calculate\obj\Debug\05.Calculate.exe
-G:\Za Telerik\HOMEWORK\Loops-Homework\05.Calculate\obj\Debug\05.Calculate.pdb

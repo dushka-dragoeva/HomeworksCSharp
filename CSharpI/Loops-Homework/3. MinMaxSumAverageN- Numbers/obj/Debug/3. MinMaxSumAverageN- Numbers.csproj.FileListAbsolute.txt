@@ -1,6 +1,0 @@
-G:\Za Telerik\HOMEWORK\Loops-Homework\3. MinMaxSumAverageN- Numbers\bin\Debug\_3.MinMaxSumAverageN__Numbers.exe.config
-G:\Za Telerik\HOMEWORK\Loops-Homework\3. MinMaxSumAverageN- Numbers\bin\Debug\_3.MinMaxSumAverageN__Numbers.exe
-G:\Za Telerik\HOMEWORK\Loops-Homework\3. MinMaxSumAverageN- Numbers\bin\Debug\_3.MinMaxSumAverageN__Numbers.pdb
-G:\Za Telerik\HOMEWORK\Loops-Homework\3. MinMaxSumAverageN- Numbers\obj\Debug\3. MinMaxSumAverageN- Numbers.csprojResolveAssemblyReference.cache
-G:\Za Telerik\HOMEWORK\Loops-Homework\3. MinMaxSumAverageN- Numbers\obj\Debug\_3.MinMaxSumAverageN__Numbers.exe
-G:\Za Telerik\HOMEWORK\Loops-Homework\3. MinMaxSumAverageN- Numbers\obj\Debug\_3.MinMaxSumAverageN__Numbers.pdb

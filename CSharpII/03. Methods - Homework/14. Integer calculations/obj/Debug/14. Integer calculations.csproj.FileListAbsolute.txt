@@ -1,9 +1,0 @@
-G:\Za Telerik\HOMEWORK\03. Methods - Homework\14. Integer calculations\bin\Debug\_14.Integer_calculations.exe.config
-G:\Za Telerik\HOMEWORK\03. Methods - Homework\14. Integer calculations\obj\Debug\14. Integer calculations.csprojResolveAssemblyReference.cache
-G:\Za Telerik\HOMEWORK\03. Methods - Homework\14. Integer calculations\bin\Debug\_14.Integer_calculations.exe
-G:\Za Telerik\HOMEWORK\03. Methods - Homework\14. Integer calculations\bin\Debug\_14.Integer_calculations.pdb
-G:\Za Telerik\HOMEWORK\03. Methods - Homework\14. Integer calculations\obj\Debug\_14.Integer_calculations.exe
-G:\Za Telerik\HOMEWORK\03. Methods - Homework\14. Integer calculations\obj\Debug\_14.Integer_calculations.pdb
-F:\Za Telerik\HOMEWORK\03. Methods - Homework\14. Integer calculations\bin\Debug\_14.Integer_calculations.exe.config
-F:\Za Telerik\HOMEWORK\03. Methods - Homework\14. Integer calculations\obj\Debug\_14.Integer_calculations.exe
-F:\Za Telerik\HOMEWORK\03. Methods - Homework\14. Integer calculations\obj\Debug\_14.Integer_calculations.pdb

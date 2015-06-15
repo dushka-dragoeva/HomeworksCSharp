@@ -1,6 +1,0 @@
-G:\Za Telerik\HOMEWORK\Loops-Homework\12. RandomizeNumbers1-N\bin\Debug\_12.RandomizeNumbers1_N.exe.config
-G:\Za Telerik\HOMEWORK\Loops-Homework\12. RandomizeNumbers1-N\bin\Debug\_12.RandomizeNumbers1_N.exe
-G:\Za Telerik\HOMEWORK\Loops-Homework\12. RandomizeNumbers1-N\bin\Debug\_12.RandomizeNumbers1_N.pdb
-G:\Za Telerik\HOMEWORK\Loops-Homework\12. RandomizeNumbers1-N\obj\Debug\12. RandomizeNumbers1-N.csprojResolveAssemblyReference.cache
-G:\Za Telerik\HOMEWORK\Loops-Homework\12. RandomizeNumbers1-N\obj\Debug\_12.RandomizeNumbers1_N.exe
-G:\Za Telerik\HOMEWORK\Loops-Homework\12. RandomizeNumbers1-N\obj\Debug\_12.RandomizeNumbers1_N.pdb

@@ -1,6 +1,0 @@
-G:\Za Telerik\HOMEWORK\Loops-Homework\08. Catalan Numbers\bin\Debug\_08.Catalan_Numbers.exe.config
-G:\Za Telerik\HOMEWORK\Loops-Homework\08. Catalan Numbers\bin\Debug\_08.Catalan_Numbers.exe
-G:\Za Telerik\HOMEWORK\Loops-Homework\08. Catalan Numbers\bin\Debug\_08.Catalan_Numbers.pdb
-G:\Za Telerik\HOMEWORK\Loops-Homework\08. Catalan Numbers\obj\Debug\08. Catalan Numbers.csprojResolveAssemblyReference.cache
-G:\Za Telerik\HOMEWORK\Loops-Homework\08. Catalan Numbers\obj\Debug\_08.Catalan_Numbers.exe
-G:\Za Telerik\HOMEWORK\Loops-Homework\08. Catalan Numbers\obj\Debug\_08.Catalan_Numbers.pdb

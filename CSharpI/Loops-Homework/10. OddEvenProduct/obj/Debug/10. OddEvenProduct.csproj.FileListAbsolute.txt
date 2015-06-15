@@ -1,6 +1,0 @@
-G:\Za Telerik\HOMEWORK\Loops-Homework\10. OddEvenProduct\bin\Debug\_10.OddEvenProduct.exe.config
-G:\Za Telerik\HOMEWORK\Loops-Homework\10. OddEvenProduct\obj\Debug\10. OddEvenProduct.csprojResolveAssemblyReference.cache
-G:\Za Telerik\HOMEWORK\Loops-Homework\10. OddEvenProduct\bin\Debug\_10.OddEvenProduct.exe
-G:\Za Telerik\HOMEWORK\Loops-Homework\10. OddEvenProduct\bin\Debug\_10.OddEvenProduct.pdb
-G:\Za Telerik\HOMEWORK\Loops-Homework\10. OddEvenProduct\obj\Debug\_10.OddEvenProduct.exe
-G:\Za Telerik\HOMEWORK\Loops-Homework\10. OddEvenProduct\obj\Debug\_10.OddEvenProduct.pdb

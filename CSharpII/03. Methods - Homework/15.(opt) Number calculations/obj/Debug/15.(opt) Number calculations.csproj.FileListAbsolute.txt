@@ -1,8 +1,0 @@
-G:\Za Telerik\HOMEWORK\03. Methods - Homework\15.(opt) Number calculations\bin\Debug\15.(opt) Number calculations.exe.config
-G:\Za Telerik\HOMEWORK\03. Methods - Homework\15.(opt) Number calculations\bin\Debug\15.(opt) Number calculations.exe
-G:\Za Telerik\HOMEWORK\03. Methods - Homework\15.(opt) Number calculations\bin\Debug\15.(opt) Number calculations.pdb
-G:\Za Telerik\HOMEWORK\03. Methods - Homework\15.(opt) Number calculations\obj\Debug\15.(opt) Number calculations.exe
-G:\Za Telerik\HOMEWORK\03. Methods - Homework\15.(opt) Number calculations\obj\Debug\15.(opt) Number calculations.pdb
-F:\Za Telerik\HOMEWORK\03. Methods - Homework\15.(opt) Number calculations\bin\Debug\15.(opt) Number calculations.exe.config
-F:\Za Telerik\HOMEWORK\03. Methods - Homework\15.(opt) Number calculations\obj\Debug\15.(opt) Number calculations.exe
-F:\Za Telerik\HOMEWORK\03. Methods - Homework\15.(opt) Number calculations\obj\Debug\15.(opt) Number calculations.pdb

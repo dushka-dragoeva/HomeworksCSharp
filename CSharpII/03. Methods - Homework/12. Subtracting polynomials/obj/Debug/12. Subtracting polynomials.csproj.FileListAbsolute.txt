@@ -1,9 +1,0 @@
-F:\Za Telerik\HOMEWORK\03. Methods - Homework\12. Subtracting polynomials\bin\Debug\_12.Subtracting_polynomials.exe.config
-G:\Za Telerik\HOMEWORK\03. Methods - Homework\12. Subtracting polynomials\bin\Debug\_12.Subtracting_polynomials.exe.config
-G:\Za Telerik\HOMEWORK\03. Methods - Homework\12. Subtracting polynomials\obj\Debug\12. Subtracting polynomials.csprojResolveAssemblyReference.cache
-G:\Za Telerik\HOMEWORK\03. Methods - Homework\12. Subtracting polynomials\bin\Debug\_12.Subtracting_polynomials.exe
-G:\Za Telerik\HOMEWORK\03. Methods - Homework\12. Subtracting polynomials\bin\Debug\_12.Subtracting_polynomials.pdb
-G:\Za Telerik\HOMEWORK\03. Methods - Homework\12. Subtracting polynomials\obj\Debug\_12.Subtracting_polynomials.exe
-G:\Za Telerik\HOMEWORK\03. Methods - Homework\12. Subtracting polynomials\obj\Debug\_12.Subtracting_polynomials.pdb
-F:\Za Telerik\HOMEWORK\03. Methods - Homework\12. Subtracting polynomials\obj\Debug\_12.Subtracting_polynomials.exe
-F:\Za Telerik\HOMEWORK\03. Methods - Homework\12. Subtracting polynomials\obj\Debug\_12.Subtracting_polynomials.pdb
