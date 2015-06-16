@@ -1,0 +1,55 @@
+body, fieldset, h1,table,td,th, { 
+	margin: 0; 
+	padding: 0;
+	font-size: 0px
+}
+fieldset{
+	background-color: gray;
+	color: white;
+	width: 300px;
+	border: none;
+	font-family: calibri, ariel, sans-serif;
+	font-size: 16px;
+	
+}
+h1 { 
+	font-size: 1.5em;
+	font-weight: normal;
+	text-align: left;
+	
+}
+table,th,td{
+	
+	border-collapse: collapse;
+	
+	padding: 5px;
+	vertical-align: top;
+}
+
+th{
+	font-style: italic;
+	text-align: left;
+	font-weight: normal;
+	padding-right: 15px
+}
+
+#red-text{
+	
+	font-weight:bold;
+	color: red
+}
+#orange-text{
+	
+	font-weight:bold;
+	color: orange
+}
+#first-cell{
+	padding-top: 0;
+	
+}
+.yellow-text{
+	color:#ffa;
+}
+.blue-text{
+	color: rgb(172,176,200);
+}
