@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QualityMethods", "QualityMethods\QualityMethods.csproj", "{5404FD7B-6DC9-4E9E-9E87-F08A191311BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactorCsharp2ExamSolutions", "RefactorCsharp2ExamSolutions\RefactorCsharp2ExamSolutions.csproj", "{3AEA512B-1CAD-41E9-BA7A-CF63D34F42D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5404FD7B-6DC9-4E9E-9E87-F08A191311BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5404FD7B-6DC9-4E9E-9E87-F08A191311BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5404FD7B-6DC9-4E9E-9E87-F08A191311BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5404FD7B-6DC9-4E9E-9E87-F08A191311BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AEA512B-1CAD-41E9-BA7A-CF63D34F42D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AEA512B-1CAD-41E9-BA7A-CF63D34F42D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AEA512B-1CAD-41E9-BA7A-CF63D34F42D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AEA512B-1CAD-41E9-BA7A-CF63D34F42D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printer", "1.Class_123InCSharp\Printer.csproj", "{D74C4205-8F5D-4A4D-843C-E8651175CC7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicHeros", "Task2\MagicHeros.csproj", "{EB4C2AD9-A4C7-4F98-AB94-2F4B1838AAAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckBrowser", "ButtonClick\CheckBrowser.csproj", "{567B8863-F9AB-473B-A64C-9A18ADACC755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper", "Minesweeper\Minesweeper.csproj", "{254AA1A2-8C8B-4C62-8AD9-D1C26CA5A079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D74C4205-8F5D-4A4D-843C-E8651175CC7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74C4205-8F5D-4A4D-843C-E8651175CC7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74C4205-8F5D-4A4D-843C-E8651175CC7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74C4205-8F5D-4A4D-843C-E8651175CC7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4C2AD9-A4C7-4F98-AB94-2F4B1838AAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4C2AD9-A4C7-4F98-AB94-2F4B1838AAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4C2AD9-A4C7-4F98-AB94-2F4B1838AAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4C2AD9-A4C7-4F98-AB94-2F4B1838AAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{567B8863-F9AB-473B-A64C-9A18ADACC755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567B8863-F9AB-473B-A64C-9A18ADACC755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567B8863-F9AB-473B-A64C-9A18ADACC755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567B8863-F9AB-473B-A64C-9A18ADACC755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{254AA1A2-8C8B-4C62-8AD9-D1C26CA5A079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254AA1A2-8C8B-4C62-8AD9-D1C26CA5A079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254AA1A2-8C8B-4C62-8AD9-D1C26CA5A079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254AA1A2-8C8B-4C62-8AD9-D1C26CA5A079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
