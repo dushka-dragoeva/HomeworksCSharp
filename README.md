@@ -1,2 +1,2 @@
-# HomeworksCSharp1
-All homeworks for CSharp1
+# Homeworks for Telerik Accademy
+
