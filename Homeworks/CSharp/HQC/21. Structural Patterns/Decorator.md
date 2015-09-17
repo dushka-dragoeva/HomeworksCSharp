@@ -1,25 +1,18 @@
-# Composite Pattern
+# Decorator Pattern
 
 ## Описание
  * Този шаблон за дизайн ни позволява да добавяме допълнителна функционалност към даден базов клас по време на изпълнението на нашата програма. Като това се случва без да се променя поведението на други обекти от същия клас.
-
  *Освновният плюс е че ни предпазва от това да създаваме нови под-класове за да добавим нова функционалност. Като за всеки даден вариант и комбинация да имаме отделн клас (в примера по-надолу това щеше да заничи да имаме по 6 подкласа за всяко превозно средство, за да покрием възможността да се комбинират 3 екстри)   
-
  
 ## Цел
  * Добавя допълнителна функционалност на обектите динамично и е флексибилна алтернатива за заместване на множество под класове
-
 
 ## Известни употреби
  * In .NET: CryptoStream and GZipStream decorates Stream
 
 ## Implemntation
-Кратко демо за това как може да модифицираме дадено превозно средство
-
-![alt text](diagrams/decorator.png)
-
-###### public abstract class VehicleComponent – това е базовия клас както и за стандартните обекти, така и за тези които ще бъдат "декорирани". Ако нямаме някаква специфична функционалност може да използваме интерфейс 
-~~~c#
+```
+// base class
 public abstract class VehicleComponent
     {
         public string Brand { get; set; }
@@ -30,10 +23,8 @@ public abstract class VehicleComponent
 
         public abstract void UpdatePrice(decimal updateCost);
     }
-~~~
 
-###### public class Car е т.нар. Concrete Component клас. Той ще бъде изпозлван от декоратора за да му бъде добавена нова функционлност или да бъде модифициран. 
-~~~c#
+// Concrete Component клас. 
 public class Car : VehicleComponent
     {
         public Car(string brand, decimal price)
@@ -54,10 +45,8 @@ public class Car : VehicleComponent
             this.Price += updateCost;
         }
     }
-~~~
 
-###### internal abstract class VehicleDecorator - това е базовият клас за всички декоратори. Класа наследява VehicleComponent, за да може неговите наследници да го ползват вместо Concrete Components (в случая Car или SUV). Създава собствен конструктур който приема VehicleComponent, което ни позволява да подаваме дори други декоратори или различни наследници на базовия клас. 
-~~~c#
+// базовият клас за всички декоратори
 internal abstract class VehicleDecorator : VehicleComponent
     {
         protected VehicleDecorator(VehicleComponent vehicle)
@@ -77,10 +66,9 @@ internal abstract class VehicleDecorator : VehicleComponent
             this.Vehicle.UpdatePrice(updateCost);
         }
     }
-~~~
 
-###### internal class V8EngineDecorator - добавя допълнителни функционалност или информация за подадения му обект
-~~~c#
+
+// добавя допълнителни функционалност или информация за подадения му обект
 internal class V8EngineDecorator : VehicleDecorator
     {
          private const decimal V8EnginePrice = 27250;
@@ -102,10 +90,9 @@ internal class V8EngineDecorator : VehicleDecorator
             Console.WriteLine("Driving around the local racing track");
         }
     }
-~~~
 
-###### Използване от страна на клиента - позволява ни лесно да комбинираме различните опции и лесно да изпозлваме нова функционалност. 
-~~~c#
+// позволява ни лесно да комбинираме различните опции и лесно да изпозлваме нова функционалност. 
+
 public class Client
     {
         public static void Main()
@@ -145,4 +132,4 @@ public class Client
   
 ## UML  диаграма
 
-![alt text](http://www.coderanch.com/t/493146/a/1059/flywe050.gif)
+![alt text](https://deansserver.co.uk/~dean/wp-content/uploads/2013/01/757px-Decorator_UML_class_diagram.svg_.png)
