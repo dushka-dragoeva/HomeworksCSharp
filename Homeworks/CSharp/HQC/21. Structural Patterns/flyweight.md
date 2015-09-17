@@ -112,17 +112,6 @@ private void CreateSoldier(DropDownList DdlCharacterType, TextBox TxtCharacterNa
           soldier.RenderSoldier(TxtCharacterName.Text,TxtColor.Text);
 }
 
-You can see we are creating just 2 objects, one for GunSoldier and another for Sword soldier.
-
-Download the sample code attached for a full demonstration. 
-
-Note: The Flyweight pattern uses the Factory Method pattern internally.
-
-
-
-Class Diagram
-
-class-diagram-Flyweight-Pattern.jpg
 ```
 
 ## Последствия
