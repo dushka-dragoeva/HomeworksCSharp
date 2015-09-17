@@ -15,7 +15,7 @@
 ## Приложение
  * Използват се два обекта:
 	** единият съдържа всички несподелени параметри
-	** другият съдържа всички споделени параметри, които се подават на factory
+	** другият съдържа всички споделени параметри, които се подават на factory, което flyweight pattern използва вътрешно
 
 
 ## Известни употреби
@@ -24,7 +24,106 @@
 
 ## Имплментация 
 
+```
+// Create an Abstract Flyweight class Soldier:
+public abstract class Soldier
+{        
+          public WeaponType Weapon{get;set;}
+          public abstract void RenderSoldier(string StrPriName, string Color);
+}
 
+
+
+// Create a Concrete Flyweight classes GunSoldier and SwordSoldier as:
+
+public class GunSoldier:Soldier
+{
+          public GunSoldier()
+          {
+                    this.Weapon = WeaponType.Gun;
+          }
+          public override void RenderSoldier(string StrPriName, string Color)
+          {                 
+                    HttpContext.Current.Response.Write("Gun Character " + StrPriName + " Rendered with "+Color+" Color");                      
+          }
+}
+ 
+public class SwordSoldier:Soldier
+{
+          public SwordSoldier()
+          {
+                    this.Weapon = WeaponType.Sword;
+          }
+          public override void RenderSoldier(string StrPriName, string Color)
+          {
+                    HttpContext.Current.Response.Write("Sword Character " + StrPriName + " Rendered with " + Color + " Color");                             
+          }
+}
+
+
+
+// Create a Flyweight Facttory SoldierFactory:
+ 
+public class SoldierFactory
+{
+          Dictionary<string, Soldier> SoldierCollection;
+          public SoldierFactory()
+          {
+                    SoldierCollection = new Dictionary<string, Soldier>();
+          }
+          public Soldier GetSoldier(string SoldierIndex)
+          {                 
+                    if(!SoldierCollection.ContainsKey(SoldierIndex))
+                    {
+                              HttpContext.Current.Response.Write("Objet created - ");
+                              switch(SoldierIndex)
+                              {
+                                        case "0":
+                                        SoldierCollection.Add(SoldierIndex, new GunSoldier());
+                                        break;
+                                        case "1":
+                                        SoldierCollection.Add(SoldierIndex, new SwordSoldier());
+                                        break;
+                              }
+                    }
+                    else
+                    {
+                              HttpContext.Current.Response.Write("Objet reused - ");
+                    }
+                    return SoldierCollection[SoldierIndex];
+          }
+}
+
+
+
+// client code:
+ 
+this.CreateSoldier(DdlCharacterType1, TxtCharacterName1, TxtColor1);
+Response.Write("<Br>");
+this.CreateSoldier(DdlCharacterType2, TxtCharacterName2, TxtColor2);
+Response.Write("<Br>");
+this.CreateSoldier(DdlCharacterType3, TxtCharacterName3, TxtColor3);
+.
+.
+.
+private void CreateSoldier(DropDownList DdlCharacterType, TextBox TxtCharacterName, TextBox TxtColor)
+{
+          Soldier soldier = factory.GetSoldier(DdlCharacterType.SelectedValue);
+          soldier.RenderSoldier(TxtCharacterName.Text,TxtColor.Text);
+}
+
+You can see we are creating just 2 objects, one for GunSoldier and another for Sword soldier.
+
+Download the sample code attached for a full demonstration. 
+
+Note: The Flyweight pattern uses the Factory Method pattern internally.
+
+
+
+Class Diagram
+
+class-diagram-Flyweight-Pattern.jpg
+```
 
 ## Последствия
 * Печели се добър пърформънс
