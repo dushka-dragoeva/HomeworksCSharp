@@ -43,11 +43,12 @@ Database schema is normalized when there isn't repeating data.
         + Narrow tables: Having more fine-tuned tables allows your tables to have less columns and allows you to fit more records per data page
         + Fewer indexes per table mean faster maintenance tasks such as index rebuilds
         + Only join tables that you need 
-  
-1.  What are database integrity constraints and when are they used?
+  1.  What are database integrity constraints and when are they used?
 
 They inforce data rules which cannot be violated  and they enshure data integrity in the database tables.
 1.  Point out the pros and cons of using indexes in a database.
+
+__Pros__
 1.  What's the main purpose of the SQL language?
 1.  What are transactions used for?
   * Give an example.
