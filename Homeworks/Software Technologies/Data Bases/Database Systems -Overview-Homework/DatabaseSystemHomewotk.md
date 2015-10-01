@@ -4,8 +4,8 @@
 #### Answer following questions in Markdown format (`.md` file)
 1.  What database models do you know?
     * Hierarchial (tree) model
-    *  Network/graph model
-    * Relationa l(table) model
+    * Network/graph model
+    * Relational(table) model
     * Object-orientated
 
 1.  Which are the main functions performed by a Relational Database Management System (RDBMS)?
