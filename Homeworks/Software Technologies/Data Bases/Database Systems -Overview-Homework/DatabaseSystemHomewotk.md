@@ -19,9 +19,15 @@
    Database tables consist datta, arrange in raws and columns. 
    * All rows have same structure. 
    * Columns have name and type (string, number, date, inmage or other) 
+   
    The schema of a table is an ordered sequence of column spacifications - name and type.
 
 1.  Explain the difference between a primary and a foreign key.
+
+   Major diggrences are:
+   *  Primary key is a column of the table that uniquely identifies its rows, and The foreign key is an identifier of a record located in another table witch is 
+   *  The table has only one primary key, but it can have many foreign keys
+   *  
 1.  Explain the different kinds of relationships between tables in relational databases.
 1.  When is a certain database schema normalized?
   * What are the advantages of normalized databases?
