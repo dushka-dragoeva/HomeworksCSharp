@@ -27,11 +27,26 @@
    Major diggrences are:
    *  Primary key is a column of the table that uniquely identifies its rows, and The foreign key is an identifier of a record located in another table witch is 
    *  The table has only one primary key, but it can have many foreign keys
-   *  
+   
 1.  Explain the different kinds of relationships between tables in relational databases.
+  
+* One-to many - A single record in the first table has many  coresponding records in the second table
+* Many -to many - many record in a table coresponds to a single records in the other table - shows inheritance between tables. Implemented throgh additional table
+* One-to -one -  A single record in the first table has many  coresponding records in the second table
 1.  When is a certain database schema normalized?
+
+Database schema is normalized when there isn't repeating data.
+
   * What are the advantages of normalized databases?
+      * Smaller database: By eliminating duplicate data, you will be able to reduce the overall size of the database.
+      * Better performance:
+        + Narrow tables: Having more fine-tuned tables allows your tables to have less columns and allows you to fit more records per data page.
+        + Fewer indexes per table mean faster maintenance tasks such as index rebuilds.
+        + Only join tables that you need 
+  
 1.  What are database integrity constraints and when are they used?
+
+They inforce data rules which cannot be violated  and they enshure data integrity in the database tables.
 1.  Point out the pros and cons of using indexes in a database.
 1.  What's the main purpose of the SQL language?
 1.  What are transactions used for?
