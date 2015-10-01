@@ -14,8 +14,13 @@
     * Adding, changing, deleting, searching and retreving of data stored in tables
     * Support for SQL language
     * Transaction managment(optional)
-    
 1.  Define what is "table" in database terms.
+
+   Database tables consist datta, arrange in raws and columns. 
+   * All rows have same structure. 
+   * Columns have name and type (string, number, date, inmage or other) 
+   The schema of a table is an ordered sequence of column spacifications - name and type.
+
 1.  Explain the difference between a primary and a foreign key.
 1.  Explain the different kinds of relationships between tables in relational databases.
 1.  When is a certain database schema normalized?
