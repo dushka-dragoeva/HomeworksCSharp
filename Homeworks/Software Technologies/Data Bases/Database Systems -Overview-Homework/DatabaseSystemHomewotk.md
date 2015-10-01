@@ -9,11 +9,11 @@
     * Object-orientated
 
 1.  Which are the main functions performed by a Relational Database Management System (RDBMS)?
-* RBDMS manage date stored in tables
-    * Creating, altering, deleting tables and relationship between them
-    * Adding, changing, deleting, searching and retreving of data stored in tables
-    * Support for SQL language
-    * Transaction managment(optional)
+   * RBDMS manage date stored in tables
+      * Creating, altering, deleting tables and relationship between them
+      * Adding, changing, deleting, searching and retreving of data stored in tables
+      * Support for SQL language
+      * Transaction managment(optional)
 1.  Define what is "table" in database terms.
 
    Database tables consist datta, arrange in raws and columns. 
@@ -40,8 +40,8 @@ Database schema is normalized when there isn't repeating data.
   * What are the advantages of normalized databases?
       * Smaller database: By eliminating duplicate data, you will be able to reduce the overall size of the database.
       * Better performance:
-        + Narrow tables: Having more fine-tuned tables allows your tables to have less columns and allows you to fit more records per data page.
-        + Fewer indexes per table mean faster maintenance tasks such as index rebuilds.
+        + Narrow tables: Having more fine-tuned tables allows your tables to have less columns and allows you to fit more records per data page
+        + Fewer indexes per table mean faster maintenance tasks such as index rebuilds
         + Only join tables that you need 
   
 1.  What are database integrity constraints and when are they used?
