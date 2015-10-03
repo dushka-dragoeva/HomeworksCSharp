@@ -98,7 +98,7 @@ Transactios are used for executing a database operation as a silgle unit(like lo
 1.  Give few examples of NoSQL databases and their pros and cons.
 
 
-	##### Redis
+##### Redis
 Ultra-fast in-memory data structures server
 
 Advantages                                       | Disadvantages
