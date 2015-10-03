@@ -63,9 +63,73 @@
 	* Creating, altering, deleting tables and other objects in the database
 	* Searching, retrieving, inserting, modifying and deleting table data (rows)
 1.  What are transactions used for?
+Transactios are used for executing a database operation as a silgle unit(like lock in C#). 
 
+	Transactions guarantee the consistency and the integrity of the database. 
+	
+	Either all of then are execute successfully or none of them is executed at all.
 
   * Give an example.
-1.  What is a NoSQL database?11
-1.  Explain the classical non-relational data models.12
-1.  Give few examples of NoSQL databases and their pros and cons.13
+
+	Bank operations like deposit, withdrow, banktransfer. If two  users want to acces same account at same time, while first user is operating, the second is waiting.
+1.  What is a NoSQL database?
+
+	NoSQL date base use document-based model. It is non-relational. Data are stored as documents.Documents do not have a fixed structure. NoSQL databases support CRUD (create, read, update,delite), indexing, query, concurrency and transactions. Single entity (document) is a single record. 
+
+
+1.  Explain the classical non-relational data models.
+
+
+ 	There are four general types of NoSQL databases, each with their own specific attributes:
+	+ **Key-Value store** – we start with this type of database because these are some of the least complex NoSQL options. These databases are designed for storing data in a schema-less way. In a key-value store, all of the data within consists of an indexed key and a value, hence the name. Examples of this type of database include: Cassandra, DyanmoDB, Azure Table Storage (ATS), Riak, BerkeleyDB.
+	+ **Column store** – (also known as wide-column stores) instead of storing data in rows, these databases are designed for storing data tables as sections of columns of data, rather than as rows of data. While this simple description sounds like the inverse of a standard database, wide-column stores offer very high performance and a highly scalable architecture. Examples include: HBase, BigTable and HyperTable.
+	+ **Document database** – expands on the basic idea of key-value stores where “documents” are more complex, in that they contain data and each document is assigned a unique key, which is used to retrieve the document. These are designed for storing, retrieving, and managing document-oriented information, also known as semi-structured data. Examples include: MongoDB and CouchDB.
+	+ **Graph database** – Based on graph theory, these databases are designed for data whose relations are well represented as a graph and has elements which are interconnected, with an undetermined number of relations between them. Examples include: Neo4J and Polyglot.
+
+	#### The following table lays out some of the key attributes that should be considered when evaluating NoSQL databases.
+
+	Datamodel       | Performance | Scalability     | Flexibility | Complexity | Functionality
+	----------------|-------------|-----------------|-------------|------------|-----------------
+	Key-value store | High        | High            | High        | None       | Variable (None)
+	Column Store    | High        | High            | Moderate    | Low        | Minimal
+	Document Store  | High        | Variable (High) | High        | Low        | Variable (Low)
+	Graph Database  | Variable    | Variable        | High        | High       | Graph Theory
+	 
+1.  Give few examples of NoSQL databases and their pros and cons.
+
+
+	##### Redis
+Ultra-fast in-memory data structures server
+
+Advantages                                       | Disadvantages
+-------------------------------------------------|-------------------------------------------------
+Lightening fast. | Memory only.
+Replication possible. | You can have slaves, but it's not distributed yet. Although they intend to add it in future.
+Cool datastructures available within realm of key-value. | 
+
+##### MongoDB
+Mature and powerful JSON-document database
+
+Advantages                                       | Disadvantages
+-------------------------------------------------|-------------------------------------------------
+Enables horizontal scalability by using a technique called sharding. | Very unreliable. No single server durability.
+Provides ACID properties at the document level as in the case of relational databases. | Indexes take up a lot of RAM. They are B-tree indexes and if you have many, you can run out of system resources really fast.
+
+
+##### CouchDB
+JSON-based document database with REST API
+
+Advantages                                       | Disadvantages
+-------------------------------------------------|-------------------------------------------------
+Very persistent, no power failure, system crash will do anything to your data. | Couch maintains a different document for every update you make.
+Everything is HTTP. You can serve a CouchApp from database itself using views. | 
+Replication is easy, and can be uni or bi-directional. | 
+
+##### Cassandra
+Distributed wide-column database
+
+Some of the strong points of Cassandra are:
+* Highly scalable and highly available with no single point of failure.
+* Very high write throughput and good read throughput. 
+* Flexible schemal. 
+	
