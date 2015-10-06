@@ -1,0 +1,7 @@
+﻿
+------ StyleCop 4.7 (build 4.7.50.0) started ------
+
+
+------ StyleCop completed ------
+
+========== Violation Count: 0 ==========
