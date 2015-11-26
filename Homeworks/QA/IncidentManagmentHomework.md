@@ -6,8 +6,8 @@
 
 | Bug description        | Severity           | Priority  |
 | ------------- |:-------------:| -----:|
-|Tool for selection doesn’t select exactly the same that it’s marking (crops 10 pixels to the left)      |High  |Immediate  |
-| When selecting a color with the color picker it replaces the first color from the palette, not the chosen one     | High   |Immediate  |
+|Tool for selection doesn’t select exactly the same that it’s marking (crops 10 pixels to the left)      |Critical  |Immediate  |
+| When selecting a color with the color picker it replaces the first color from the palette, not the chosen one     | Critical   |Immediate  |
 | Shortcut for “Create New Image” (Ctrl+N) doesn’t work | Medium  |On Occasion   |
 | Spelling mistake in menu Select “Transperent selection” instead of “Transparent selection”| Low  | Immediate  |
 | While holding Ctrl+Z and drawing with the pencil the second color is used instead of the first one, and that’s not a feature| Low  | Open  |
