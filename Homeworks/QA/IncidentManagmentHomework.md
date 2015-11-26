@@ -6,14 +6,14 @@
 
 | Bug description        | Severity           | Priority  |
 | ------------- |:-------------:| -----:|
-|Tool for selection doesnít select exactly the same that itís marking (crops 10 pixels to the left)      |High  |1 ñ Immediate  |
-| When selecting a color with the color picker it replaces the first color from the palette, not the chosen one     | High   |1 ñ Immediate  |
-| Shortcut for ìCreate New Imageî (Ctrl+N) doesnít work | Medium  |On Occasion   |
-| Spelling mistake in menu Select ìTransperent selectionî instead of ìTransparent selectionî| Low  | Immediate  |
-| While holding Ctrl+Z and drawing with the pencil the second color is used instead of the first one, and thatís not a feature| Low  | Open  |
-| When using ìMagic Wandî tool the tolerance value is changing on every mouse click| Medium  | Next Release  |
-| While clicking ìRotate 90 Clockwiseî the image is rotating in counterclockwise direction| Medium  |Next Release   |
-| The button for increasing the Brush size doesnít work. It can be increased only from the drop down | Medium | On Occasion |
+|Tool for selection doesn‚Äôt select exactly the same that it‚Äôs marking (crops 10 pixels to the left)      |High  |Immediate  |
+| When selecting a color with the color picker it replaces the first color from the palette, not the chosen one     | High   |Immediate  |
+| Shortcut for ‚ÄúCreate New Image‚Äù (Ctrl+N) doesn‚Äôt work | Medium  |On Occasion   |
+| Spelling mistake in menu Select ‚ÄúTransperent selection‚Äù instead of ‚ÄúTransparent selection‚Äù| Low  | Immediate  |
+| While holding Ctrl+Z and drawing with the pencil the second color is used instead of the first one, and that‚Äôs not a feature| Low  | Open  |
+| When using ‚ÄúMagic Wand‚Äù tool the tolerance value is changing on every mouse click| Medium  | Next Release  |
+| While clicking ‚ÄúRotate 90 Clockwise‚Äù the image is rotating in counterclockwise direction| Medium  |Next Release   |
+| The button for increasing the Brush size doesn‚Äôt work. It can be increased only from the drop down | Medium | On Occasion |
 | Program crash on clicking the OK button while resizing an image.| Blocking  |   Immediate
 
 2.Imagine you have the following bug, mentioned by a customer and you have to describe it and log it in the bug tracking tool you use
@@ -21,7 +21,7 @@
 
 |BUG REPORT |   #1   |
 | ------------- |:-------------:| 
-|Description  |When thereís a page break in the page and you try to set dashed border on the page, the bottom border line doesnít show|
+|Description  |When there‚Äôs a page break in the page and you try to set dashed border on the page, the bottom border line doesn‚Äôt show|
 |Steps to reproduce  ||
 |Acceptance criteria  |All borders should be visible|
 |Priority ||
