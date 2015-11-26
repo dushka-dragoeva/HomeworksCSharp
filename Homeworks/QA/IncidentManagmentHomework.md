@@ -70,10 +70,10 @@ BUG REPORT |  #3 Exel 2010 - Latin Letters are changed to Creek|
 					 |12. Press "Replace All" button
 |||					 
 |Actual behavior:|The text in cells is displayed in Greek letters|
-|Expected behavour:|The bullet and spaces do disappear and text font to reamin in Lattin letters.|
+|Expected behavour:|The bullet and spaces do disappear and text characters to reamin in Lattin letters.|
 |||
 |Remark:|Same bug can be reproduced with Word 2007, 2016 and Exel 2007, 2016 :)|
-|Acceptance criteria  |When replacing the bullet and the empty space with an empty character, the font should not be changed |
+|Acceptance criteria  |When replacing the bullet and the empty space with an empty character, the text characters not be changed |
 |Priority |Open|
 |Severity  |Low|
 
