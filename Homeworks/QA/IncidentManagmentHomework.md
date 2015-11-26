@@ -27,7 +27,7 @@
 			|3. Enter some text on the first page |
 			|4. Insert a page break|
 			|5. Set a dashed border on the page|
-			||
+||			
 |Actual behavior: |The bottom dashed border line doesn’t show|
 |Expected behavior: |The bottom dashed border line to be visible |
 |Acceptance criteria  |All borders should be visible|
@@ -42,8 +42,8 @@
 					 |3. Enter valid user data in required fields|
 					 |4. Click on 'Save' button|
 					 
-					 |Actual behavior: Application craches and it is not known if new user is created in data base|
-					 |Expected behavior: Create new user , and display a confirmation message "User "Usermane" was createt succefully"|
+ |Actual behavior:|Application craches and it is not known if new user is created in data base|
+ |Expected behavior:|Create new user , and display a confirmation message "User "Usermane" was createt succefully"|
 					
 					 
 |Acceptance criteria  |A new user to be created and saved to data base |
