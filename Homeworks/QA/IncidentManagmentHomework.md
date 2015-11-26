@@ -23,13 +23,13 @@
 | ------------- |:-------------:| 
 |Description  |When there’s a page break in the page and you try to set dashed border on the page, the bottom border line doesn’t show|
 |Steps to reproduce  |1. Open application|
-		 |2. Create new document|
-			 |3. Enter some text on the first page |
-					 |4. Insert a page break|
-					 |5. Set a dashed border on the page|
-					 ||
-					 | Actual behavior: The bottom dashed border line doesn’t show|
-					 |Expected behavior: The bottom dashed border line to be visible |
+|2. Create new document|
+|3. Enter some text on the first page |
+|4. Insert a page break|
+|5. Set a dashed border on the page|
+||
+|Actual behavior: The bottom dashed border line doesn’t show|
+|Expected behavior: The bottom dashed border line to be visible |
 |Acceptance criteria  |All borders should be visible|
 |Priority |Next Release|
 |Severity  |Low|
