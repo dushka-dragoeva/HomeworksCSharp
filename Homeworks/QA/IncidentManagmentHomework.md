@@ -20,7 +20,7 @@
 *	Report the following bugs
 
 |BUG REPORT |   #1   |
-| ------------- |:-------------:| 
+| ------------------------------------------------------------- |:-------------:| 
 |Description  |When there’s a page break in the page and you try to set dashed border on the page, the bottom border line doesn’t show|
 |Steps to reproduce  |1. Open application|
 			|2. Create new document|
