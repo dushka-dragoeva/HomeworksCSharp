@@ -6,15 +6,15 @@
 
 | Bug description        | Severity           | Priority  |
 | ------------- |:-------------:| -----:|
-|Tool for selection doesn’t select exactly the same that it’s marking (crops 10 pixels to the left)      |  |  |
-| When selecting a color with the color picker it replaces the first color from the palette, not the chosen one     |   |  |
-| Shortcut for “Create New Image” (Ctrl+N) doesn’t work |   |   |
-| Spelling mistake in menu Select “Transperent selection” instead of “Transparent selection”|   |   |
-| While holding Ctrl+Z and drawing with the pencil the second color is used instead of the first one, and that’s not a feature|   |   |
-| When using “Magic Wand” tool the tolerance value is changing on every mouse click|   |   |
-| While clicking “Rotate 90 Clockwise” the image is rotating in counterclockwise direction|   |   |
-| The button for increasing the Brush size doesn’t work. It can be increased only from the drop down |   |   |
-| Program crash on clicking the OK button while resizing an image.|   |   
+|Tool for selection doesn’t select exactly the same that it’s marking (crops 10 pixels to the left)      |High  |1 – Immediate  |
+| When selecting a color with the color picker it replaces the first color from the palette, not the chosen one     | High   |1 – Immediate  |
+| Shortcut for “Create New Image” (Ctrl+N) doesn’t work | Medium  |On Occasion   |
+| Spelling mistake in menu Select “Transperent selection” instead of “Transparent selection”| Low  | Immediate  |
+| While holding Ctrl+Z and drawing with the pencil the second color is used instead of the first one, and that’s not a feature| Low  | Open  |
+| When using “Magic Wand” tool the tolerance value is changing on every mouse click| Medium  | Next Release  |
+| While clicking “Rotate 90 Clockwise” the image is rotating in counterclockwise direction| Medium  |Next Release   |
+| The button for increasing the Brush size doesn’t work. It can be increased only from the drop down | Medium | On Occasion |
+| Program crash on clicking the OK button while resizing an image.| Blocking  |   Immediate
 
 2.Imagine you have the following bug, mentioned by a customer and you have to describe it and log it in the bug tracking tool you use
 *	Report the following bugs
