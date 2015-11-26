@@ -27,10 +27,9 @@
 					 |3. Enter some text on the first page |
 					 |4. Insert a page break|
 					 |5. Set a dashed border on the page|
-					 
-					 Actual behavior: The bottom dashed border line doesn’t show
-					 Expected behavior: The bottom dashed border line to be visible 
-					 
+					 ||
+					 | Actual behavior: The bottom dashed border line doesn’t show|
+					 |Expected behavior: The bottom dashed border line to be visible |
 |Acceptance criteria  |All borders should be visible|
 |Priority |Next Release|
 |Severity  |Low|
