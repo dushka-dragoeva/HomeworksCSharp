@@ -42,8 +42,8 @@
 					 |3. Enter valid user data in required fields|
 					 |4. Click on 'Save' button|
 |||
- |Actual behavior:|Application craches and it is not known if new user is created in data base|
- |Expected behavior:|Create new user , and display a confirmation message "User "Usermane" was createt succefully"|
+|Actual behavior:|Application craches and it is not known if new user is created in data base|
+|Expected behavior:|Create new user , and display a confirmation message "User "Usermane" was createt succefully"|
 |Acceptance criteria  |A new user to be created and saved to data base |
 |Priority |Blocking|
 |Severity  |Immediate|
@@ -69,10 +69,10 @@ BUG REPORT |  #3 Exel 2010 - Latin Letters are changed to Creek|
 					 |11. Leave "Releace with" empty
 					 |12. Press "Replace All" button
 |||					 
-					 |Actual behavior:|The text in cells is displayed in Greek letters|
-					 |Expected behavour:|The bullet and spaces do disappear and text font to reamin in Lattin letters.|
+|Actual behavior:|The text in cells is displayed in Greek letters|
+|Expected behavour:|The bullet and spaces do disappear and text font to reamin in Lattin letters.|
 |||
-					 |Remark:|Same bug can be reproduced with Word 2007, 2016 and Exel 2007, 2016 :)|
+|Remark:|Same bug can be reproduced with Word 2007, 2016 and Exel 2007, 2016 :)|
 |Acceptance criteria  |When replacing the bullet and the empty space with an empty character, the font should not be changed |
 |Priority |Open|
 |Severity  |Low|
@@ -85,8 +85,8 @@ BUG REPORT |   #4  After logging into Gmail, it navigates to Google.com |
 					 |3. Enter your credential |
 					 |4. Click on 'Sihnin' button|
 |||				
-					 | Actual behavior:|  www.google.com is opened|
-					 |Expected behavior:| The Gmail Inbox page to be opened |
+| Actual behavior:|  www.google.com is opened|
+|Expected behavior:| The Gmail Inbox page to be opened |
 |Acceptance criteria  |The user to have access to his/her Gmail inbox |
 |Priority |Blocking|
 |Severity  |Immediate|	
