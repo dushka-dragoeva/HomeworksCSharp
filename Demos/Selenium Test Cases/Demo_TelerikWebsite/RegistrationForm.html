@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://stage.telerikacademy.com/" />
+<title>RegistrationForm</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">RegistrationForm</td></tr>
+</thead><tbody>
+<tr>
+	<td>store</td>
+	<td>javascript{new Date().getTime()}</td>
+	<td>generator</td>
+</tr>
+<tr>
+	<td>echo</td>
+	<td>${generator}</td>
+	<td></td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>/</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Регистрация</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=Username</td>
+	<td>Denyca${generator}</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=Password</td>
+	<td>123456</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=PasswordAgain</td>
+	<td>123456</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=FirstName</td>
+	<td>Дени</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=LastName</td>
+	<td>Денева</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=Email</td>
+	<td>deny${generator}@abv.bg</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=TermsAndConditions</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=input.btn.btn-success</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyElementPresent</td>
+	<td>css=span.glyphicon.glyphicon-off</td>
+	<td></td>
+</tr>
+</tbody></table>
+</body>
+</html>
