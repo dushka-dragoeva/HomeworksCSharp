@@ -1,0 +1,162 @@
+[debug (15.01.16 14:50:24)] Debug: setLogFile: E:\Terelik\QA\QAPartTow\Sikuli\SikuliX-1.1.0-SetupLog.txt
+[debug (15.01.16 14:50:24)] RunSetup: ... starting with no args given
+[debug (15.01.16 14:50:24)] RunSetup: Setup: 1.1.0 2015-10-06_17:22 in folder:
+E:\Terelik\QA\QAPartTow\Sikuli
+[debug (15.01.16 14:50:24)] RunSetup: RunningSystem: Windows 6.3
+[debug (15.01.16 14:50:24)] RunSetup: parent of jar/classes: E:\Terelik\QA\QAPartTow\Sikuli
+[debug (15.01.16 14:50:24)] RunSetup: RunningJava: Java 8 (amd64) 1.8.0_66-b18
+[debug (15.01.16 14:50:24)] init user preferences
+[debug (15.01.16 14:50:28)] RunSetup: 
+popInfo: --------------------
+asking for option 1: Package 1: You get SikuliX (sikulix.jar) which supports all usages of Sikuli
+-------------------- Some Information on this option, that might help to decide, wether to select it ------------------
+It is recommended for people new to Sikuli to get a feeling about the features
+ - and those who want to develop Sikuli scripts with the Sikuli IDE
+ - and those who want to run Sikuli scripts from commandline.
+Directly supported scripting languages are Jython and JRuby (you might choose one of them or even both)
+For those who know ;-) additionally you can ...
+- develop Java programs with Sikuli features in IDE's like Eclipse, NetBeans, ...
+- develop in any Java aware scripting language adding Sikuli features in IDE's like Eclipse, NetBeans, ...
+Special INFO for Jython, JRuby and Java developement
+If you want to use standalone Jython/JRuby or want to develop in Java in parallel,
+you should select Package 2 additionally (Option 2)
+In these cases, Package 1 (SikuliX) can be used for image management and for small tests/trials.
+Special info for Windows systems:
+The generated jars can be used out of the box with Java 32-Bit and Java 64-Bit as well.
+The Java version is detected at runtime and the native support is switched accordingly.
+--------------------
+[debug (15.01.16 14:50:34)] RunSetup: 
+popAsk: --------------------
+The following file(s) will be downloaded to
+E:\Terelik\QA\QAPartTow\Sikuli
+--- Native support libraries for Windows (sikulixlibs...)
+--- Package 1 ---
+sikulixsetupIDE-1.1.0-forsetup.jar (IDE/Scripting)
+sikulixsetupAPI-1.1.0-forsetup.jar (Java API)
+ - with Jython
+Only click NO, if you want to terminate setup now!
+Click YES even if you want to use local copies in Downloads!
+--------------------
+[debug (15.01.16 14:50:37)] RunSetup: 
+popAsk: --------------------
+You have for Windows native libs
+C:\Users\DELL\AppData\Roaming\Sikulix\SikulixDownloads_201510061722\sikulixlibswin-1.1.0.jar
+Click YES, if you want to use this for setup processing
+... or click NO, to ignore it and download a fresh copy
+--------------------
+[debug (15.01.16 14:51:00)] RunSetup: Copied from Downloads: sikulixlibswin
+[debug (15.01.16 14:51:00)] FileManager: resetFolder:
+E:\Terelik\QA\QAPartTow\Sikuli\SetupStuff\sikulixlibs\windows
+jar:file:/E:/Terelik/QA/QAPartTow/Sikuli/sikulixlibswin.jar
+[debug (15.01.16 14:51:00)] RunSetup: 
+popAsk: --------------------
+You have for Java API package
+C:\Users\DELL\AppData\Roaming\Sikulix\SikulixDownloads_201510061722\sikulixsetupAPI-1.1.0-forsetup.jar
+Click YES, if you want to use this for setup processing
+... or click NO, to ignore it and download a fresh copy
+--------------------
+[debug (15.01.16 14:51:05)] RunSetup: Copied from Downloads: sikulixapi
+[debug (15.01.16 14:51:05)] FileManager: resetFolder:
+E:\Terelik\QA\QAPartTow\Sikuli\SetupStuff\Lib
+jar:file:/E:/Terelik/QA/QAPartTow/Sikuli/sikulixapi.jar
+[debug (15.01.16 14:51:05)] RunSetup: 
+popAsk: --------------------
+You have for SikuliX IDE package
+C:\Users\DELL\AppData\Roaming\Sikulix\SikulixDownloads_201510061722\sikulixsetupIDE-1.1.0-forsetup.jar
+Click YES, if you want to use this for setup processing
+... or click NO, to ignore it and download a fresh copy
+--------------------
+[debug (15.01.16 14:51:10)] RunSetup: Copied from Downloads: sikulix
+[debug (15.01.16 14:51:10)] RunSetup: 
+popAsk: --------------------
+If you click YES, you will get Jython version 2.7.0 (recommended)
+... but there is an issue with some rare UTF-8/Unicode situations,
+that usually appear on startup with UTF-8 ccharacters
+somewhere in the system environment
+If you encounter such problems with Jython 2.7.0
+run setup again and
+click NO to get Jython 2.5.4rc1
+--------------------
+[debug (15.01.16 14:51:11)] RunSetup: 
+popAsk: --------------------
+You have for Jython 2.7
+C:\Users\DELL\AppData\Roaming\Sikulix\SikulixDownloads\jython-standalone-2.7.0.jar
+Click YES, if you want to use this for setup processing
+... or click NO, to ignore it and download a fresh copy
+--------------------
+[debug (15.01.16 14:51:14)] RunSetup: Copied from Downloads: Jython
+[debug (15.01.16 14:51:14)] RunSetup: Download ended
+[debug (15.01.16 14:51:14)] RunSetup: Downloads for selected options:
+sikulixlibswin-1.1.0.jar sikulixsetupIDE-1.1.0-forsetup.jar sikulixsetupAPI-1.1.0-forsetup.jar jython-standalone-2.7.0.jar 
+[debug (15.01.16 14:51:14)] RunSetup: adding needed stuff to sikulix.jar
+[debug (15.01.16 14:51:14)] FileManager: buildJar: sikulixtemp.jar
+[debug (15.01.16 14:51:14)] FileManager: buildJar: adding: sikulix.jar
+[debug (15.01.16 14:51:15)] FileManager: buildJar: adding: sikulixapi.jar
+[debug (15.01.16 14:51:16)] FileManager: buildJar: adding: sikulixjython.jar
+[debug (15.01.16 14:51:24)] FileManager: buildJar: adding: sikulixlibswin.jar
+[debug (15.01.16 14:51:28)] FileManager: buildJar: completed
+[debug (15.01.16 14:51:28)] RunSetup: renaming sikulixtemp.jar to target jar: sikulix.jar
+[debug (15.01.16 14:51:28)] RunSetup: processing commandfiles
+[debug (15.01.16 14:51:28)] RunTimeSETUP: addToClasspath:
+file:/E:/Terelik/QA/QAPartTow/Sikuli/sikulix.jar
+[debug (15.01.16 14:51:28)] RunTimeSETUP: exists libs folder at: C:\Users\DELL\AppData\Roaming\Sikulix\SikulixLibs_201510061722
+[debug (15.01.16 14:51:28)] RunSetup: Jython: Trying to run functional test: running script statements via SikuliScript
+[debug (15.01.16 14:51:33)] ScriptingSupport: initScriptingSupport: enter
+[debug (15.01.16 14:51:38)] JythonSupport: init: starting
+[debug (15.01.16 14:51:38)] JythonSupport: init: success
+[debug (15.01.16 14:51:38)] JythonSupport: ***** Jython sys.path
+ 0: E:\Terelik\QA\QAPartTow\Sikuli\Lib
+ 1: E:\Terelik\QA\QAPartTow\Sikuli\sikulix.jar\Lib
+ 2: __classpath__
+ 3: __pyclasspath__/
+[debug (15.01.16 14:51:38)] JythonSupport: ***** Jython sys.path end
+[debug (15.01.16 14:51:38)] Jython: sikuli: Sikuli: starting init
+[debug (15.01.16 14:51:39)] RunTimeSETUP: new libs folder at: C:\Users\DELL\AppData\Roaming\Sikulix\SikulixLibs_201510061722
+[debug (15.01.16 14:51:39)] RunTimeSETUP: deleting obsolete libs folders in AppPath
+[debug (15.01.16 14:51:39)] RunTimeSETUP: libs folder empty or has wrong content
+[debug (15.01.16 14:51:39)] RunTimeSETUP: now exporting libs
+[debug (15.01.16 14:51:39)] RunTimeSETUP: libs to export are at:
+jar:file:/E:/Terelik/QA/QAPartTow/Sikuli/sikulix.jar!/sikulixlibs/windows/libs64
+[debug (15.01.16 14:51:39)] RunTimeSETUP: resourceList: enter
+[debug (15.01.16 14:51:39)] RunTimeSETUP: resourceLocation: (class org.sikuli.setup.RunSetup) /sikulixlibs/windows/libs64
+[debug (15.01.16 14:51:39)] RunTimeSETUP: resourceList: having jar: jar:file:/E:/Terelik/QA/QAPartTow/Sikuli/sikulix.jar!/sikulixlibs/windows/libs64
+[debug (15.01.16 14:51:42)] RunTimeSETUP: files exported: 17 from: /sikulixlibs/windows/libs64 to:
+ C:\Users\DELL\AppData\Roaming\Sikulix\SikulixLibs_201510061722
+[debug (15.01.16 14:51:42)] RunTimeSETUP: addToWindowsSystemPath: added to systempath:
+C:\Users\DELL\AppData\Roaming\Sikulix\SikulixLibs_201510061722
+[debug (15.01.16 14:51:42)] RunTimeSETUP: checkJavaUsrPath: added to ClassLoader.usrPaths
+[debug (15.01.16 14:51:44)] RunTimeSETUP: loadLib: VisionProxy.dll
+[debug (15.01.16 14:51:45)] Mouse: init
+[debug (15.01.16 14:51:45)] KeyBoard: init
+[debug (15.01.16 14:51:45)] RunTimeSETUP: loadLib: WinUtil.dll
+[debug (15.01.16 14:51:45)] Jython: requested to use as default region: R[0,0 1920x1080]@S(0)
+[debug (15.01.16 14:51:46)] Jython: sikuli: Sikuli: ending init
+[debug (15.01.16 14:51:46)] JythonScriptRunner: running Jython 2.7.0 
+[debug (15.01.16 14:51:46)] ScriptingSupport: initScriptingSupport: added: jython
+[debug (15.01.16 14:51:46)] ScriptingSupport: initScriptingSupport: exit with defaultrunner: jython (py)
+[debug (15.01.16 14:51:46)] Jython: requested to use as default region: R[0,0 1920x1080]@S(0)
+[debug (15.01.16 14:51:46)] JythonScriptRunner: runPython: running statements
+[debug (15.01.16 14:51:46)] Image: BufferedImage: (100, 100)
+[debug (15.01.16 14:51:46)] Finder: Image: __BufferedImage__: (100x100)
+[debug (15.01.16 14:51:46)] Sikulix: testSetup: Finder setup with image worked
+[debug (15.01.16 14:51:46)] FileManager: tempfile create:
+C:\Users\DELL\AppData\Local\Temp\Sikulix_30521426\sikuli-572030213248181793.png
+[debug (15.01.16 14:51:46)] Image: loaded: C:/Users/DELL/AppData/Local/Temp/Sikulix_30521426/sikuli-572030213248181793.png (file:/C:/Users/DELL/AppData/Local/Temp/Sikulix_30521426/sikuli-572030213248181793.png)
+[debug (15.01.16 14:51:46)] Image: cached: C:/Users/DELL/AppData/Local/Temp/Sikulix_30521426/sikuli-572030213248181793.png (29 KB) (# 1 KB 29 -- 0 % of 64 MB)
+[debug (15.01.16 14:51:46)] Sikulix: testSetup: Finder setup with image file worked
+[debug (15.01.16 14:51:46)] Region: find: waiting 3,0 secs for C:\Users\DELL\AppData\Local\Temp\Sikulix_30521426\sikuli-572030213248181793.png to appear in S(0)[0,0 1920x1080]
+[debug (15.01.16 14:51:46)] Image: reused: C:/Users/DELL/AppData/Local/Temp/Sikulix_30521426/sikuli-572030213248181793.png (file:/C:/Users/DELL/AppData/Local/Temp/Sikulix_30521426/sikuli-572030213248181793.png)
+[debug (15.01.16 14:51:47)] Region: find: C:\Users\DELL\AppData\Local\Temp\Sikulix_30521426\sikuli-572030213248181793.png has appeared 
+at M[0,0 100x100]@S(S(0)[0,0 1920x1080]) S:1,00 C:50,50 [571 msec]
+[debug (15.01.16 14:51:47)] Sikulix: testSetup: Screen.find(imagefile) worked
+[debug (15.01.16 14:51:47)] Region: find: waiting 3,0 secs for C:\Users\DELL\AppData\Local\Temp\Sikulix_30521426\sikuli-572030213248181793.png to appear in S(0)[0,0 1920x1080]
+[debug (15.01.16 14:51:47)] Image: reused: C:/Users/DELL/AppData/Local/Temp/Sikulix_30521426/sikuli-572030213248181793.png (file:/C:/Users/DELL/AppData/Local/Temp/Sikulix_30521426/sikuli-572030213248181793.png)
+[debug (15.01.16 14:51:47)] Region: checkLastSeen: still there
+[debug (15.01.16 14:51:47)] Region: find: C:\Users\DELL\AppData\Local\Temp\Sikulix_30521426\sikuli-572030213248181793.png has appeared 
+at M[0,0 100x100]@S(S(0)[0,0 1920x1080]) S:1,00 C:50,50 [78 msec]
+[debug (15.01.16 14:51:47)] Sikulix: testSetup: repeated Screen.find(imagefile) worked
+[debug (16.01.16 05:41:15)] Sikulix: testSetup: Finder.find: worked
+[debug (16.01.16 05:41:32)] RunSetup: ... SikuliX Setup seems to have ended successfully ;-)
+[debug (16.01.16 05:41:35)] RunTimeSETUP: final cleanup
+[debug (16.01.16 05:42:08)] FileManager: deleteFileOrFolder:
+C:\Users\DELL\AppData\Local\Temp\Sikulix_30521426

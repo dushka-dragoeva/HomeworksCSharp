@@ -1,0 +1,110 @@
+
+<html>
+   <head>
+      <style type="text/css">
+         .sikuli-code {
+            font-size: 20px;
+            font-family: "Osaka-mono", Monospace;
+            line-height: 1.5em;
+            display:table-cell;
+            white-space: pre-wrap;       /* css-3 */
+            white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+            white-space: -pre-wrap;      /* Opera 4-6 */
+            white-space: -o-pre-wrap;    /* Opera 7 */
+            word-wrap: break-word;       /* Internet Explorer 5.5+ */
+            width: 99%;   /* remove horizontal scroll-bar when viewing in IE7 */
+         }
+         .sikuli-code img {
+            vertical-align: middle;
+            margin: 2px;
+            border: 1px solid #ccc;
+            padding: 2px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            -moz-box-shadow: 1px 1px 1px gray;
+            -webkit-box-shadow: 1px 1px 2px gray;
+         }
+         .kw {
+            color: blue;
+         }
+         .skw {
+            color: rgb(63, 127, 127);
+         }
+
+         .str {
+            color: rgb(128, 0, 0);
+         }
+
+         .dig {
+            color: rgb(128, 64, 0);
+         }
+
+         .cmt {
+            color: rgb(200, 0, 200);
+         }
+
+         h2 {
+            display: inline;
+            font-weight: normal;
+         }
+
+         .info {
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+            margin-bottom: 20px;
+            display: none;
+         }
+
+         a {
+            color: #9D2900;
+         }
+
+         body {
+            font-family: "Trebuchet MS", Arial, Sans-Serif;
+         }
+
+      </style>
+   </head>
+<body>
+<div class="info">
+<h2>_uimap.sikuli</h2> <a href="_uimap.zip">(Download this script)</a>
+</div>
+<pre class="sikuli-code">
+<span class="cmt">########################################################</span>
+<span class="cmt"># UI map for XYZ</span>
+<span class="cmt">########################################################</span>
+<span class="kw">from</span> sikuli <span class="kw">import</span> *
+<span class="cmt">########################################################</span>
+
+<span class="kw">class</span> TAP:
+    Google = <img src="Google.png" />
+    Telerik = <img src="Telerik.png" />
+    label_closeBrowser = <img src="label_closeBrowser.png" />
+    label_drag_drop = <img src="label_drag_drop.png" />
+    Oslo =<img src="Oslo.png" />
+    Stockholm = <img src="Stockholm.png" />
+    Copenhagen = <img src="Copenhagen.png" />
+    Seul = <img src="Seul.png" />
+    Rome = <img src="Rome.png" />
+    Madrid = <img src="Madrid.png" />
+    Italy = <img src="Italy.png" />
+    Norway = <img src="Norway.png" />
+    Spain = <img src="Spain.png" />
+    Denmark = <img src="Denmark.png" />
+    Sweden = <img src="Sweden.png" />
+    South_Korea = <img src="South_Korea.png" />
+    Washington = <img src="Washington.png" />
+    Usa = <img src="Usa.png" />
+    lable_result = <img src="lable_result.png" />
+    icon_skype = <img src="icon_skype.png" />
+    lable_allFriends = <img src="lable_allFriends.png" />
+    lable_skype = <img src="lable_skype.png" />
+    lable_input = <img src="lable_input.png" />
+    label_friend =<img src="label_friend.png" />
+    label_calculator = Pattern(<img src="label_calculator.png" />).targetOffset(<span class="dig">66</span>,<span class="dig">69</span>)
+    label_image = <img src="label_image.png" />
+    label_logo = <img src="label_logo.png" />
+    label_link =<img src="lable_link.png" />
+</pre>
+</body>
+</html>
